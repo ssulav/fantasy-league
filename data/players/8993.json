@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8993-ipl.png
+    creditChange: NONE
+    credits: 9.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Rishabh Pant
+    playerProfileDisplay: Role
+    points: 337
+    profileUrl: https://www.iplt20.com/teams/delhi-capitals/squad/2972/rishabh-pant
+    squad:
+      name: Delhi Capitals
+    tourStatistics:
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-20T14:00:00.000Z'
+      matchId: 22480
+      matchName: KXIP vs DC
+      points: 39
+      selectionRate: 33.19
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-17T14:00:00.000Z'
+      matchId: 22476
+      matchName: DC vs CSK
+      points: 0
+      selectionRate: 6.51
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-14T14:00:00.000Z'
+      matchId: 22472
+      matchName: DC vs RR
+      points: 0
+      selectionRate: 5.88
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-11T14:00:00.000Z'
+      matchId: 22469
+      matchName: MI vs DC
+      points: 0
+      selectionRate: 15.92
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-09T14:00:00.000Z'
+      matchId: 22465
+      matchName: RR vs DC
+      points: 17
+      selectionRate: 70.13
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-05T14:00:00.000Z'
+      matchId: 22461
+      matchName: BLR vs DC
+      points: 64
+      selectionRate: 73.9
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-03T14:00:00.000Z'
+      matchId: 22458
+      matchName: DC vs KOL
+      points: 57
+      selectionRate: 87.33
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-09-29T14:00:00.000Z'
+      matchId: 22453
+      matchName: DC vs SRH
+      points: 45
+      selectionRate: 75.34
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-09-25T14:00:00.000Z'
+      matchId: 22449
+      matchName: CSK vs DC
+      points: 68
+      selectionRate: 77.94
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-09-20T14:00:00.000Z'
+      matchId: 22444
+      matchName: DC vs KXIP
+      points: 47
+      selectionRate: 68.86
+    type:
+      name: WK

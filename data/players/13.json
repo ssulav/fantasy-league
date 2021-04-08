@@ -1,0 +1,83 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/13-ipl.png
+    creditChange: NONE
+    credits: 8.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Ishant Sharma
+    playerProfileDisplay: Role
+    points: 4
+    profileUrl: https://www.iplt20.com/teams/delhi-capitals/squad/38/ishant-sharma
+    squad:
+      name: DC
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-14T14:00:00.000Z'
+      matchId: 22472
+      matchName: DC vs RR
+      points: 0
+      selectionRate: 0.26
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-11T14:00:00.000Z'
+      matchId: 22469
+      matchName: MI vs DC
+      points: 0
+      selectionRate: 0.4
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-09T14:00:00.000Z'
+      matchId: 22465
+      matchName: RR vs DC
+      points: 0
+      selectionRate: 0.24
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-05T14:00:00.000Z'
+      matchId: 22461
+      matchName: BLR vs DC
+      points: 0
+      selectionRate: 0.54
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-03T14:00:00.000Z'
+      matchId: 22458
+      matchName: DC vs KOL
+      points: 0
+      selectionRate: 2.34
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-29T14:00:00.000Z'
+      matchId: 22453
+      matchName: DC vs SRH
+      points: 4
+      selectionRate: 17
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-25T14:00:00.000Z'
+      matchId: 22449
+      matchName: CSK vs DC
+      points: 0
+      selectionRate: 0.88
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-20T14:00:00.000Z'
+      matchId: 22444
+      matchName: DC vs KXIP
+      points: 0
+      selectionRate: 9.21
+    type:
+      name: BOWL

@@ -1,0 +1,778 @@
+data:
+  site:
+    fantasyScoreCardHeader:
+    - name: Starting 11
+    - name: Runs
+    - name: 4's
+    - name: 6's
+    - name: S/R
+    - name: 30/50/100
+    - name: Duck
+    - name: Wkts
+    - name: Maiden Over
+    - name: E/R
+    - name: Bonus
+    - name: Catch
+    - name: Run Out/Stumping
+    - name: Total
+    tour:
+      match:
+        players:
+        - name: Kieron Pollard
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 11
+            - name: 4's
+              score: 1
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 16
+          squad:
+            shortName: MI
+          type:
+            shortName: ALL
+        - name: Krunal Pandya
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 12
+            - name: 4's
+              score: 2
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 50
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 76
+          squad:
+            shortName: MI
+          type:
+            shortName: ALL
+        - name: Axar Patel
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 37
+          squad:
+            shortName: DC
+          type:
+            shortName: ALL
+        - name: Marcus Stoinis
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 13
+            - name: 4's
+              score: 2
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: -6
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 38
+          squad:
+            shortName: DC
+          type:
+            shortName: ALL
+        - name: Quinton de Kock
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 53
+            - name: 4's
+              score: 4
+            - name: 6's
+              score: 6
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 8
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 75
+          squad:
+            shortName: MI
+          type:
+            shortName: WK
+        - name: Ishan Kishan
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 28
+            - name: 4's
+              score: 2
+            - name: 6's
+              score: 4
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 38
+          squad:
+            shortName: MI
+          type:
+            shortName: WK
+        - name: Alex Carey
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 14
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 26
+          squad:
+            shortName: DC
+          type:
+            shortName: WK
+        - name: Rohit Sharma
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 5
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: -6
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 3
+          squad:
+            shortName: MI
+          type:
+            shortName: BAT
+        - name: Suryakumar Yadav
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 53
+            - name: 4's
+              score: 6
+            - name: 6's
+              score: 2
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 8
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 6
+            - name: Total
+              score: 79
+          squad:
+            shortName: MI
+          type:
+            shortName: BAT
+        - name: Hardik Pandya
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: -2
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 2
+          squad:
+            shortName: MI
+          type:
+            shortName: BAT
+        - name: Prithvi Shaw
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 4
+            - name: 4's
+              score: 1
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 17
+          squad:
+            shortName: DC
+          type:
+            shortName: BAT
+        - name: Shreyas Iyer
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 42
+            - name: 4's
+              score: 5
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 59
+          squad:
+            shortName: DC
+          type:
+            shortName: BAT
+        - name: Ajinkya Rahane
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 15
+            - name: 4's
+              score: 3
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 22
+          squad:
+            shortName: DC
+          type:
+            shortName: BAT
+        - name: Shikhar Dhawan
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 69
+            - name: 4's
+              score: 6
+            - name: 6's
+              score: 2
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 8
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 89
+          squad:
+            shortName: DC
+          type:
+            shortName: BAT
+        - name: James Pattinson
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: -6
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: -2
+          squad:
+            shortName: MI
+          type:
+            shortName: BOWL
+        - name: Trent Boult
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: -2
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 35
+          squad:
+            shortName: MI
+          type:
+            shortName: BOWL
+        - name: Jasprit Bumrah
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 4
+          squad:
+            shortName: MI
+          type:
+            shortName: BOWL
+        - name: Rahul Chahar
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 6
+            - name: Total
+              score: 10
+          squad:
+            shortName: MI
+          type:
+            shortName: BOWL
+        - name: Anrich Nortje
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 4
+          squad:
+            shortName: DC
+          type:
+            shortName: BOWL
+        - name: Kagiso Rabada
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 50
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 62
+          squad:
+            shortName: DC
+          type:
+            shortName: BOWL
+        - name: Harshal Patel
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: -2
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 2
+          squad:
+            shortName: DC
+          type:
+            shortName: BOWL
+        - name: Ravichandran Ashwin
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 29
+          squad:
+            shortName: DC
+          type:
+            shortName: BOWL
+        squads:
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MI-CR3-ipl@2x.png
+          name: MI
+          shortName: MI
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DC-CR3-ipl@2x.png
+          name: DC
+          shortName: DC
+        status: COMPLETED

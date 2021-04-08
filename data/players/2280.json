@@ -1,0 +1,107 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/2280-ipl.png
+    creditChange: NONE
+    credits: 8.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Tom Curran
+    playerProfileDisplay: Role
+    points: 183
+    profileUrl: null
+    squad:
+      name: Rajasthan Royals
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-22T14:00:00.000Z'
+      matchId: 22482
+      matchName: RR vs SRH
+      points: 0
+      selectionRate: 1.5
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-19T14:00:00.000Z'
+      matchId: 22479
+      matchName: CSK vs RR
+      points: 0
+      selectionRate: 6.18
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-17T10:00:00.000Z'
+      matchId: 22475
+      matchName: RR vs BLR
+      points: 0
+      selectionRate: 3.73
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-14T14:00:00.000Z'
+      matchId: 22472
+      matchName: DC vs RR
+      points: 0
+      selectionRate: 3.03
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-11T10:00:00.000Z'
+      matchId: 22468
+      matchName: SRH vs RR
+      points: 0
+      selectionRate: 6.34
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-09T14:00:00.000Z'
+      matchId: 22465
+      matchName: RR vs DC
+      points: 0
+      selectionRate: 10.2
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-06T14:00:00.000Z'
+      matchId: 22462
+      matchName: MI vs RR
+      points: 16
+      selectionRate: 33.16
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-03T10:00:00.000Z'
+      matchId: 22457
+      matchName: BLR vs RR
+      points: -2
+      selectionRate: 53.85
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-30T14:00:00.000Z'
+      matchId: 22454
+      matchName: RR vs KOL
+      points: 97
+      selectionRate: 40.6
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-27T14:00:00.000Z'
+      matchId: 22451
+      matchName: RR vs KXIP
+      points: 30
+      selectionRate: 25.49
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-22T14:00:00.000Z'
+      matchId: 22446
+      matchName: RR vs CSK
+      points: 42
+      selectionRate: 26.86
+    type:
+      name: BOWL

@@ -1,0 +1,1406 @@
+data:
+  me:
+    isGuestUser: true
+    showOnboarding: true
+  site:
+    name: ipl-fantasy
+    playerTypes:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/wk-img.png
+      id: 3
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: Wicket-Keepers
+      shortName: WK
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bt-img.png
+      id: 1
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Batsmen
+      shortName: BAT
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/ar-img.png
+      id: 4
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: All-Rounders
+      shortName: AR
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bw-img.png
+      id: 2
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Bowlers
+      shortName: BOWL
+    roles:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg
+      color: '#F5A623'
+      id: 5
+      name: Captain
+      pointMultiplier: 2
+      shortName: C
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg
+      color: '#4A90E2'
+      id: 6
+      name: Vice Captain
+      pointMultiplier: 1.5
+      shortName: VC
+    showSelPercent: false
+    showTeamCombination:
+      count: 0
+      siteKey: cricket
+    teamCriteria:
+      maxPlayerPerSquad: 7
+      totalCredits: 100
+      totalPlayerCount: 11
+    teamPreviewArtwork:
+    - src: https://assets.dream11.com/public/imgs/team-preview-bg-ipl.svg
+    tour:
+      match:
+        guru: ''
+        id: 22463
+        players:
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6332-ipl.png
+          credits: 8.5
+          id: 6332
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sam Curran
+          points: 468
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.66
+            - id: 6
+              selectionRate: 7.13
+            selectionRate: 54.72
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/3653-ipl.png
+          credits: 8.5
+          id: 3653
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mitchell Santner
+          points: 0
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.17
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/298-ipl.png
+          credits: 9
+          id: 298
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Dwayne-Bravo
+          points: 193
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.94
+            - id: 6
+              selectionRate: 1.91
+            selectionRate: 23.23
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/36-ipl.png
+          credits: 9
+          id: 36
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Ravindra Jadeja
+          points: 411
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.31
+            - id: 6
+              selectionRate: 2.38
+            selectionRate: 37.01
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/896-ipl.png
+          credits: 9
+          id: 896
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sunil Narine
+          points: 208
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.01
+            - id: 6
+              selectionRate: 3.8
+            selectionRate: 30.53
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1091-ipl.png
+          credits: 10.5
+          id: 1091
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Andre Russell
+          points: 300
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 10.79
+            - id: 6
+              selectionRate: 11.81
+            selectionRate: 73.26
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/10178-ipl.png
+          credits: 8
+          id: 10178
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Narayan Jagadeesan
+          points: 41
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.02
+            selectionRate: 0.18
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1-ipl.png
+          credits: 9.5
+          id: 1
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: MS Dhoni
+          points: 363
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 6.78
+            - id: 6
+              selectionRate: 3.36
+            selectionRate: 77.45
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/20-ipl.png
+          credits: 8.5
+          id: 20
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Dinesh Karthik
+          points: 256
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.75
+            - id: 6
+              selectionRate: 2.33
+            selectionRate: 41.29
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5990-ipl.png
+          credits: 8
+          id: 5990
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Nikhil Naik
+          points: 13
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.26
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11599-ipl.png
+          credits: 8
+          id: 11599
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Ruturaj Gaikwad
+          points: 13
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.15
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1085-ipl.png
+          credits: 9.5
+          id: 1085
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Faf du Plessis
+          points: 581
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 29.27
+            - id: 6
+              selectionRate: 12.93
+            selectionRate: 87.95
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/974-ipl.png
+          credits: 9
+          id: 974
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Ambati Rayudu
+          points: 348
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 5.45
+            - id: 6
+              selectionRate: 5.75
+            selectionRate: 53.03
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/737-ipl.png
+          credits: 8
+          id: 737
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Kedar Jadhav
+          points: 105
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.22
+            - id: 6
+              selectionRate: 0.37
+            selectionRate: 5.98
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/109-ipl.png
+          credits: 9
+          id: 109
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shane Watson
+          points: 413
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 9.02
+            - id: 6
+              selectionRate: 8.36
+            selectionRate: 63.86
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/35-ipl.png
+          credits: 8.5
+          id: 35
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Murali Vijay
+          points: 46
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.34
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/612-ipl.png
+          credits: 9.5
+          id: 612
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Eoin Morgan
+          points: 384
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 6.65
+            - id: 6
+              selectionRate: 9.42
+            selectionRate: 69.68
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5985-ipl.png
+          credits: 9
+          id: 5985
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Nitish Rana
+          points: 278
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.49
+            - id: 6
+              selectionRate: 5.49
+            selectionRate: 53.87
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5986-ipl.png
+          credits: 8
+          id: 5986
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Siddhesh Lad
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.06
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8793-ipl.png
+          credits: 8
+          id: 8793
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Rahul Tripathi
+          points: 228
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.08
+            - id: 6
+              selectionRate: 1.65
+            selectionRate: 17.33
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8905-ipl.png
+          credits: 8
+          id: 8905
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Rinku Singh
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.08
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11533-ipl.png
+          credits: 9
+          id: 11533
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shubman Gill
+          points: 453
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 10.37
+            - id: 6
+              selectionRate: 12.23
+            selectionRate: 78.52
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11536-ipl.png
+          credits: 8
+          id: 11536
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Tom Banton
+          points: 27
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.02
+            - id: 6
+              selectionRate: 0.02
+            selectionRate: 0.33
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/13758-ipl.png
+          credits: 8
+          id: 13758
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: KM Asif
+          points: 0
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.08
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/10144-ipl.png
+          credits: 8
+          id: 10144
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Ravisrinivasan Sai Kishore
+          points: 0
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.05
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8506-ipl.png
+          credits: 8.5
+          id: 8506
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Lungi Ngidi
+          points: 100
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.02
+            - id: 6
+              selectionRate: 0.04
+            selectionRate: 1.46
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/2104-ipl.png
+          credits: 8.5
+          id: 2104
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shardul Thakur
+          points: 266
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.48
+            - id: 6
+              selectionRate: 1.16
+            selectionRate: 35
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1891-ipl.png
+          credits: 7.5
+          id: 1891
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Monu Kumar
+          points: 0
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.12
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1121-ipl.png
+          credits: 8.5
+          id: 1121
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Deepak Chahar
+          points: 345
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.95
+            - id: 6
+              selectionRate: 3.01
+            selectionRate: 72.83
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1086-ipl.png
+          credits: 9
+          id: 1086
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Imran Tahir
+          points: 0
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.04
+            selectionRate: 1.04
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1020-ipl.png
+          credits: 8.5
+          id: 1020
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Josh Hazlewood
+          points: 37
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.56
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/736-ipl.png
+          credits: 8
+          id: 736
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Karn Sharma
+          points: 108
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.28
+            - id: 6
+              selectionRate: 0.58
+            selectionRate: 16.96
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/10-ipl.png
+          credits: 8.5
+          id: 10
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Piyush Chawla
+          points: 166
+          role: null
+          squad:
+            id: 270
+            jerseyColor: '#fcf1b0'
+            name: CSK
+            shortName: CSK
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.15
+            - id: 6
+              selectionRate: 0.29
+            selectionRate: 14.4
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1172-ipl.png
+          credits: 9
+          id: 1172
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Pat Cummins
+          points: 304
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 2.02
+            - id: 6
+              selectionRate: 3.04
+            selectionRate: 70.35
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1528-ipl.png
+          credits: 8
+          id: 1528
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Sandeep Warrier
+          points: -2
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.1
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1889-ipl.png
+          credits: 8.5
+          id: 1889
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Kuldeep Yadav
+          points: 59
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.04
+            selectionRate: 2.7
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/4802-ipl.png
+          credits: 8
+          id: 4802
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Green
+          points: 4
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.06
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6867-ipl.png
+          credits: 8
+          id: 6867
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Prasidh Krishna
+          points: 108
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.18
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8426-ipl.png
+          credits: 8.5
+          id: 8426
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Lockie Ferguson
+          points: 138
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.52
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11534-ipl.png
+          credits: 8
+          id: 11534
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Kamlesh Nagarkoti
+          points: 142
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.24
+            - id: 6
+              selectionRate: 0.54
+            selectionRate: 24.67
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11661-ipl.png
+          credits: 8.5
+          id: 11661
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shivam Mavi
+          points: 224
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.55
+            - id: 6
+              selectionRate: 1.28
+            selectionRate: 53.77
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12569-ipl.png
+          credits: 7.5
+          id: 12569
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Manimaran Siddharth
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.2
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12573-ipl.png
+          credits: 8
+          id: 12573
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Varun Chakravarthy
+          points: 239
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.38
+            - id: 6
+              selectionRate: 0.95
+            selectionRate: 35.59
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15207-ipl.png
+          credits: 8
+          id: 15207
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Ali Khan
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: KOL
+            shortName: KOL
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.1
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        squads:
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1-ipl@2x-BIG.png
+          id: 273
+          jerseyColor: '#9e92af'
+          name: KOL
+          shortName: KOL
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CSK-CR3-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CSK-CR3-ipl@2x-BIG.png
+          id: 270
+          jerseyColor: '#fcf1b0'
+          name: CSK
+          shortName: CSK
+        startTime: '2020-10-07T14:00:00.000Z'
+        status: COMPLETED
+        tour:
+          id: 1552

@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1137-ipl.png
+    creditChange: DEC
+    credits: 8.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Mayank Agarwal
+    playerProfileDisplay: Role
+    points: 587
+    profileUrl: https://www.iplt20.com/teams/kings-xi-punjab/squad/158/mayank-agarwal
+    squad:
+      name: Kings XI Punjab
+    tourStatistics:
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-20T14:00:00.000Z'
+      matchId: 22480
+      matchName: KXIP vs DC
+      points: 25
+      selectionRate: 75.6
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-18T14:00:00.000Z'
+      matchId: 22478
+      matchName: MI vs KXIP
+      points: 24
+      selectionRate: 80.17
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-15T14:00:00.000Z'
+      matchId: 22473
+      matchName: BLR vs KXIP
+      points: 59
+      selectionRate: 72.71
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-10T10:00:00.000Z'
+      matchId: 22466
+      matchName: KXIP vs KOL
+      points: 76
+      selectionRate: 84.58
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-08T14:00:00.000Z'
+      matchId: 22464
+      matchName: SRH vs KXIP
+      points: 14
+      selectionRate: 84.68
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-04T14:00:00.000Z'
+      matchId: 22460
+      matchName: KXIP vs CSK
+      points: 33
+      selectionRate: 91.99
+    - creditChange: INC
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-01T14:00:00.000Z'
+      matchId: 22455
+      matchName: KXIP vs MI
+      points: 32
+      selectionRate: 91.85
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-27T14:00:00.000Z'
+      matchId: 22451
+      matchName: RR vs KXIP
+      points: 158
+      selectionRate: 90.77
+    - creditChange: INC
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-24T14:00:00.000Z'
+      matchId: 22448
+      matchName: KXIP vs BLR
+      points: 42
+      selectionRate: 79.68
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-20T14:00:00.000Z'
+      matchId: 22444
+      matchName: DC vs KXIP
+      points: 124
+      selectionRate: 49.65
+    type:
+      name: BAT

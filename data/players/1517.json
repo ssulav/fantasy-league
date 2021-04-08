@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1517-ipl.png
+    creditChange: NONE
+    credits: 8
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Sandeep Sharma
+    playerProfileDisplay: Role
+    points: 137
+    profileUrl: https://www.iplt20.com/teams/sunrisers-hyderabad/squad/1112/sandeep-sharma
+    squad:
+      name: Sunrisers Hyderabad
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-22T14:00:00.000Z'
+      matchId: 22482
+      matchName: RR vs SRH
+      points: 4
+      selectionRate: 35.81
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-18T10:00:00.000Z'
+      matchId: 22477
+      matchName: SRH vs KOL
+      points: 4
+      selectionRate: 37.68
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-13T14:00:00.000Z'
+      matchId: 22471
+      matchName: SRH vs CSK
+      points: 59
+      selectionRate: 16.83
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-11T10:00:00.000Z'
+      matchId: 22468
+      matchName: SRH vs RR
+      points: 4
+      selectionRate: 23.85
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-08T14:00:00.000Z'
+      matchId: 22464
+      matchName: SRH vs KXIP
+      points: 4
+      selectionRate: 28.8
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-04T10:00:00.000Z'
+      matchId: 22459
+      matchName: MI vs SRH
+      points: 50
+      selectionRate: 13.21
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-02T14:00:00.000Z'
+      matchId: 22456
+      matchName: CSK vs SRH
+      points: 0
+      selectionRate: 0.77
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-29T14:00:00.000Z'
+      matchId: 22453
+      matchName: DC vs SRH
+      points: 0
+      selectionRate: 1.66
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-26T14:00:00.000Z'
+      matchId: 22450
+      matchName: KOL vs SRH
+      points: 0
+      selectionRate: 20.26
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-21T14:00:00.000Z'
+      matchId: 22445
+      matchName: SRH vs BLR
+      points: 12
+      selectionRate: 24.64
+    type:
+      name: BOWL

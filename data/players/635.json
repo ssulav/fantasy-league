@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/635-ipl.png
+    creditChange: NONE
+    credits: 10.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Virat Kohli
+    playerProfileDisplay: Role
+    points: 469
+    profileUrl: https://www.iplt20.com/teams/royal-challengers-bangalore/squad/164/virat-kohli
+    squad:
+      name: Royal Challengers Bangalore
+    tourStatistics:
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-21T14:00:00.000Z'
+      matchId: 22481
+      matchName: KOL vs BLR
+      points: 24
+      selectionRate: 84.1
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-17T10:00:00.000Z'
+      matchId: 22475
+      matchName: RR vs BLR
+      points: 52
+      selectionRate: 80.59
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-15T14:00:00.000Z'
+      matchId: 22473
+      matchName: BLR vs KXIP
+      points: 55
+      selectionRate: 73.57
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-12T14:00:00.000Z'
+      matchId: 22470
+      matchName: BLR vs KOL
+      points: 38
+      selectionRate: 86.77
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-10T14:00:00.000Z'
+      matchId: 22467
+      matchName: CSK vs BLR
+      points: 114
+      selectionRate: 73.14
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-05T14:00:00.000Z'
+      matchId: 22461
+      matchName: BLR vs DC
+      points: 51
+      selectionRate: 76.92
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-03T10:00:00.000Z'
+      matchId: 22457
+      matchName: BLR vs RR
+      points: 95
+      selectionRate: 59.07
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-09-28T14:00:00.000Z'
+      matchId: 22452
+      matchName: BLR vs MI
+      points: 1
+      selectionRate: 67.09
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-09-24T14:00:00.000Z'
+      matchId: 22448
+      matchName: KXIP vs BLR
+      points: 5
+      selectionRate: 81.76
+    - creditChange: NONE
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-09-21T14:00:00.000Z'
+      matchId: 22445
+      matchName: SRH vs BLR
+      points: 34
+      selectionRate: 76.74
+    type:
+      name: BAT

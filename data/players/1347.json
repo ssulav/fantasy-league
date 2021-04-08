@@ -1,0 +1,91 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1347-ipl.png
+    creditChange: NONE
+    credits: 8.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Nathan Coulter-Nile
+    playerProfileDisplay: Role
+    points: 63
+    profileUrl: https://www.iplt20.com/teams/royal-challengers-bangalore/squad/840/nathan-coulter-nile
+    squad:
+      name: MI
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-18T14:00:00.000Z'
+      matchId: 22478
+      matchName: MI vs KXIP
+      points: 40
+      selectionRate: 14.39
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-16T14:00:00.000Z'
+      matchId: 22474
+      matchName: MI vs KOL
+      points: 23
+      selectionRate: 21.77
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-11T14:00:00.000Z'
+      matchId: 22469
+      matchName: MI vs DC
+      points: 0
+      selectionRate: 0.23
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-06T14:00:00.000Z'
+      matchId: 22462
+      matchName: MI vs RR
+      points: 0
+      selectionRate: 0.19
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-04T10:00:00.000Z'
+      matchId: 22459
+      matchName: MI vs SRH
+      points: 0
+      selectionRate: 0.3
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-01T14:00:00.000Z'
+      matchId: 22455
+      matchName: KXIP vs MI
+      points: 0
+      selectionRate: 0.35
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-28T14:00:00.000Z'
+      matchId: 22452
+      matchName: BLR vs MI
+      points: 0
+      selectionRate: 0.39
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-23T14:00:00.000Z'
+      matchId: 22447
+      matchName: KOL vs MI
+      points: 0
+      selectionRate: 1.62
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-19T14:00:00.000Z'
+      matchId: 22443
+      matchName: MI vs CSK
+      points: 0
+      selectionRate: 5.1
+    type:
+      name: BOWL

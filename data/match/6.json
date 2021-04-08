@@ -1,0 +1,1466 @@
+data:
+  me:
+    isGuestUser: true
+    showOnboarding: true
+  site:
+    name: ipl-fantasy
+    playerTypes:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/wk-img.png
+      id: 3
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: Wicket-Keepers
+      shortName: WK
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bt-img.png
+      id: 1
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Batsmen
+      shortName: BAT
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/ar-img.png
+      id: 4
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: All-Rounders
+      shortName: AR
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bw-img.png
+      id: 2
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Bowlers
+      shortName: BOWL
+    roles:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg
+      color: '#F5A623'
+      id: 5
+      name: Captain
+      pointMultiplier: 2
+      shortName: C
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg
+      color: '#4A90E2'
+      id: 6
+      name: Vice Captain
+      pointMultiplier: 1.5
+      shortName: VC
+    showSelPercent: false
+    showTeamCombination:
+      count: 0
+      siteKey: cricket
+    teamCriteria:
+      maxPlayerPerSquad: 7
+      totalCredits: 100
+      totalPlayerCount: 11
+    teamPreviewArtwork:
+    - src: https://assets.dream11.com/public/imgs/team-preview-bg-ipl.svg
+    tour:
+      match:
+        guru: ''
+        id: 22448
+        players:
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1257-ipl.png
+          credits: 9
+          id: 1257
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Morris
+          points: 357
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.07
+            selectionRate: 2.97
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1488-ipl.png
+          credits: 8.5
+          id: 1488
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Moeen Ali
+          points: 45
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.02
+            - id: 6
+              selectionRate: 0.04
+            selectionRate: 1.96
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9090-ipl.png
+          credits: 8
+          id: 9090
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shivam Dube
+          points: 251
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.79
+            - id: 6
+              selectionRate: 1.67
+            selectionRate: 52.88
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9000-ipl.png
+          credits: 8
+          id: 9000
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Washington Sundar
+          points: 296
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.19
+            - id: 6
+              selectionRate: 0.45
+            selectionRate: 22.19
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/21136-ipl.png
+          credits: 7.5
+          id: 21136
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Shahbaz Ahmed
+          points: 10
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.57
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11809-ipl.png
+          credits: 7.5
+          id: 11809
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Tajinder Singh Dhilon
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.37
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6821-ipl.png
+          credits: 8.5
+          id: 6821
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Krishnappa Gowtham
+          points: 80
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.11
+            - id: 6
+              selectionRate: 0.2
+            selectionRate: 11.71
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1441-ipl.png
+          credits: 8.5
+          id: 1441
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Jimmy Neesham
+          points: 85
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.37
+            - id: 6
+              selectionRate: 2.29
+            selectionRate: 34.38
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1066-ipl.png
+          credits: 9
+          id: 1066
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Glenn Maxwell
+          points: 208
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.43
+            - id: 6
+              selectionRate: 6.02
+            selectionRate: 65.69
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/31-ipl.png
+          credits: 8.5
+          id: 31
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Parthiv Patel
+          points: 0
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.05
+            selectionRate: 1.71
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/14803-ipl.png
+          credits: 8
+          id: 14803
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Josh Philippe
+          points: 13
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.45
+            - id: 6
+              selectionRate: 0.63
+            selectionRate: 18.08
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/18522-ipl.png
+          credits: 7.5
+          id: 18522
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Simran Singh
+          points: 45
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.32
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1576-ipl.png
+          credits: 9
+          id: 1576
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Nicholas Pooran
+          points: 464
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.79
+            - id: 6
+              selectionRate: 2.27
+            selectionRate: 26.91
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1534-ipl.png
+          credits: 10.5
+          id: 1534
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Lokesh Rahul
+          points: 770
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 19.15
+            - id: 6
+              selectionRate: 16.06
+            selectionRate: 89.01
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/635-ipl.png
+          credits: 10.5
+          id: 635
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Virat Kohli
+          points: 469
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 22.47
+            - id: 6
+              selectionRate: 12.05
+            selectionRate: 81.76
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/342-ipl.png
+          credits: 10
+          id: 342
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: AB de Villiers
+          points: 482
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 16.78
+            - id: 6
+              selectionRate: 13.99
+            selectionRate: 83.75
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/899-ipl.png
+          credits: 9
+          id: 899
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Aaron Finch
+          points: 329
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 5.86
+            - id: 6
+              selectionRate: 5.81
+            selectionRate: 53.59
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1250-ipl.png
+          credits: 8
+          id: 1250
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Gurkeerat Singh Mann
+          points: 95
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.14
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12843-ipl.png
+          credits: 8
+          id: 12843
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Devdutt Padikkal
+          points: 490
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.95
+            - id: 6
+              selectionRate: 6.46
+            selectionRate: 68.9
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11552-ipl.png
+          credits: 8
+          id: 11552
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Pavan Deshpande
+          points: 0
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.33
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/47345-ipl.png
+          credits: 8
+          id: 47345
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mandeep Singh
+          points: 53
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.46
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1885-ipl.png
+          credits: 8
+          id: 1885
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Deepak Hooda
+          points: 68
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.57
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1495-ipl.png
+          credits: 8
+          id: 1495
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sarfaraz Khan
+          points: 74
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.19
+            - id: 6
+              selectionRate: 0.36
+            selectionRate: 12.3
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1236-ipl.png
+          credits: 8.5
+          id: 1236
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Karun Nair
+          points: 40
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.69
+            - id: 6
+              selectionRate: 0.94
+            selectionRate: 21.25
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1137-ipl.png
+          credits: 9
+          id: 1137
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Mayank Agarwal
+          points: 587
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 8.85
+            - id: 6
+              selectionRate: 8.88
+            selectionRate: 79.68
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/309-ipl.png
+          credits: 9.5
+          id: 309
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Gayle
+          points: 149
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.61
+            - id: 6
+              selectionRate: 0.58
+            selectionRate: 5.17
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1132-ipl.png
+          credits: 9
+          id: 1132
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Yuzvendra Chahal
+          points: 428
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.04
+            - id: 6
+              selectionRate: 7.95
+            selectionRate: 85.52
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1418-ipl.png
+          credits: 8.5
+          id: 1418
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Adam Zampa
+          points: 25
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 1.06
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/346-ipl.png
+          credits: 8.5
+          id: 346
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Dale Steyn
+          points: 26
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.46
+            - id: 6
+              selectionRate: 0.78
+            selectionRate: 23.78
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/754-ipl.png
+          credits: 8.5
+          id: 754
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Umesh Yadav
+          points: 14
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.27
+            - id: 6
+              selectionRate: 0.39
+            selectionRate: 11.88
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8605-ipl.png
+          credits: 8.5
+          id: 8605
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Navdeep Saini
+          points: 203
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.89
+            - id: 6
+              selectionRate: 1.91
+            selectionRate: 61.09
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/813-ipl.png
+          credits: 8
+          id: 813
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Isuru Udana
+          points: 222
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.3
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8872-ipl.png
+          credits: 8
+          id: 8872
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mohammed Siraj
+          points: 196
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.51
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1239-ipl.png
+          credits: 8
+          id: 1239
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Pawan Negi
+          points: 0
+          role: null
+          squad:
+            id: 269
+            jerseyColor: '#fe1e17'
+            name: Royal Challengers Bangalore
+            shortName: RCB
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.41
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/21313-ipl.png
+          credits: 8
+          id: 21313
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Harpreet Brar
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.06
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/21175-ipl.png
+          credits: 8
+          id: 21175
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Ravi Bishnoi
+          points: 287
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.39
+            - id: 6
+              selectionRate: 0.98
+            selectionRate: 33.21
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15170-ipl.png
+          credits: 7.5
+          id: 15170
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Arshdeep Singh
+          points: 184
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 1.11
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15141-ipl.png
+          credits: 9
+          id: 15141
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mujeeb-ur-Rahman
+          points: 3
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.06
+            selectionRate: 2.71
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12611-ipl.png
+          credits: 8
+          id: 12611
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Darshan Nalkande
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.04
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11097-ipl.png
+          credits: 8
+          id: 11097
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Ishan Porel
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.08
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8895-ipl.png
+          credits: 8
+          id: 8895
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Murugan Ashwin
+          points: 211
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.15
+            - id: 6
+              selectionRate: 0.37
+            selectionRate: 11.36
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5984-ipl.png
+          credits: 8
+          id: 5984
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Jagadeesha Suchith
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.08
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1599-ipl.png
+          credits: 8
+          id: 1599
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Hardus Viljoen
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.28
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1584-ipl.png
+          credits: 8.5
+          id: 1584
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Jordan
+          points: 96
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.07
+            selectionRate: 3.25
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1558-ipl.png
+          credits: 8.5
+          id: 1558
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sheldon Cottrell
+          points: 176
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.55
+            - id: 6
+              selectionRate: 1.25
+            selectionRate: 44.39
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1134-ipl.png
+          credits: 9
+          id: 1134
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Mohammed Shami
+          points: 468
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: Kings XI Punjab
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.39
+            - id: 6
+              selectionRate: 7.32
+            selectionRate: 82.21
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        squads:
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KXIP-CR3-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KXIP-CR3-ipl@2x-BIG.png
+          id: 272
+          jerseyColor: '#f48f94'
+          name: Kings XI Punjab
+          shortName: KXIP
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BRC-CR3-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BRC-CR3-ipl@2x-BIG.png
+          id: 269
+          jerseyColor: '#fe1e17'
+          name: Royal Challengers Bangalore
+          shortName: RCB
+        startTime: '2020-09-24T14:00:00.000Z'
+        status: COMPLETED
+        tour:
+          id: 1552

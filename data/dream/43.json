@@ -1,0 +1,778 @@
+data:
+  site:
+    fantasyScoreCardHeader:
+    - name: Starting 11
+    - name: Runs
+    - name: 4's
+    - name: 6's
+    - name: S/R
+    - name: 30/50/100
+    - name: Duck
+    - name: Wkts
+    - name: Maiden Over
+    - name: E/R
+    - name: Bonus
+    - name: Catch
+    - name: Run Out/Stumping
+    - name: Total
+    tour:
+      match:
+        players:
+        - name: Glenn Maxwell
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 12
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 16
+          squad:
+            shortName: KXIP
+          type:
+            shortName: ALL
+        - name: Abdul Samad
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 7
+            - name: 4's
+              score: 1
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 12
+          squad:
+            shortName: SRH
+          type:
+            shortName: ALL
+        - name: Vijay Shankar
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 26
+            - name: 4's
+              score: 4
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 12
+            - name: Total
+              score: 46
+          squad:
+            shortName: SRH
+          type:
+            shortName: ALL
+        - name: Jason Holder
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 5
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 50
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 59
+          squad:
+            shortName: SRH
+          type:
+            shortName: ALL
+        - name: Nicholas Pooran
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 32
+            - name: 4's
+              score: 2
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 46
+          squad:
+            shortName: KXIP
+          type:
+            shortName: WK
+        - name: Lokesh Rahul
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 27
+            - name: 4's
+              score: 2
+            - name: 6's
+              score: 2
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 16
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 51
+          squad:
+            shortName: KXIP
+          type:
+            shortName: WK
+        - name: Jonny Bairstow
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 19
+            - name: 4's
+              score: 4
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 12
+            - name: Total
+              score: 39
+          squad:
+            shortName: SRH
+          type:
+            shortName: WK
+        - name: Mandeep Singh
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 17
+            - name: 4's
+              score: 1
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 30
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BAT
+        - name: Deepak Hooda
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: -2
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 2
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BAT
+        - name: Chris Gayle
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 20
+            - name: 4's
+              score: 2
+            - name: 6's
+              score: 2
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 28
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BAT
+        - name: Priyam Garg
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 3
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 7
+          squad:
+            shortName: SRH
+          type:
+            shortName: BAT
+        - name: Manish Pandey
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 15
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: -4
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 15
+          squad:
+            shortName: SRH
+          type:
+            shortName: BAT
+        - name: David Warner
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 35
+            - name: 4's
+              score: 3
+            - name: 6's
+              score: 4
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 16
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 62
+          squad:
+            shortName: SRH
+          type:
+            shortName: BAT
+        - name: Ravi Bishnoi
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 6
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 12
+            - name: Total
+              score: 47
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BOWL
+        - name: Arshdeep Singh
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 75
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 2
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 81
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BOWL
+        - name: Murugan Ashwin
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 4
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 41
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BOWL
+        - name: Chris Jordan
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 7
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 75
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 4
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 16
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 106
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BOWL
+        - name: Mohammed Shami
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 25
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 29
+          squad:
+            shortName: KXIP
+          type:
+            shortName: BOWL
+        - name: Rashid Khan
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 50
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 6
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 68
+          squad:
+            shortName: SRH
+          type:
+            shortName: BOWL
+        - name: T Natarajan
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 2
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 6
+          squad:
+            shortName: SRH
+          type:
+            shortName: BOWL
+        - name: Khaleel Ahmed
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 0
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 8
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 12
+          squad:
+            shortName: SRH
+          type:
+            shortName: BOWL
+        - name: Sandeep Sharma
+          pointBreakup:
+          - - name: Starting 11
+              score: 4
+            - name: Runs
+              score: 0
+            - name: 4's
+              score: 0
+            - name: 6's
+              score: 0
+            - name: S/R
+              score: 0
+            - name: 30/50/100
+              score: 0
+            - name: Duck
+              score: 0
+            - name: Wkts
+              score: 50
+            - name: Maiden Over
+              score: 0
+            - name: E/R
+              score: 0
+            - name: Bonus
+              score: 0
+            - name: Catch
+              score: 0
+            - name: Run Out/Stumping
+              score: 0
+            - name: Total
+              score: 54
+          squad:
+            shortName: SRH
+          type:
+            shortName: BOWL
+        squads:
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KXIP-CR3-ipl@2x.png
+          name: KXIP
+          shortName: KXIP
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRH-CR3-ipl@2x.png
+          name: SRH
+          shortName: SRH
+        status: COMPLETED

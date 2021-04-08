@@ -1,0 +1,27 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/942-ipl.png
+    creditChange: NONE
+    credits: 8.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Mitchell Marsh
+    playerProfileDisplay: Role
+    points: 2
+    profileUrl: null
+    squad:
+      name: Sunrisers Hyderabad
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-21T14:00:00.000Z'
+      matchId: 22445
+      matchName: SRH vs BLR
+      points: 2
+      selectionRate: 36.49
+    type:
+      name: ALL

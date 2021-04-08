@@ -1,0 +1,107 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9163-ipl.png
+    creditChange: NONE
+    credits: 8
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Mahipal Lomror
+    playerProfileDisplay: Role
+    points: 79
+    profileUrl: https://www.iplt20.com/teams/rajasthan-royals/squad/2970/mahipal-lomror
+    squad:
+      name: RR
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-22T14:00:00.000Z'
+      matchId: 22482
+      matchName: RR vs SRH
+      points: 0
+      selectionRate: 0.32
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-19T14:00:00.000Z'
+      matchId: 22479
+      matchName: CSK vs RR
+      points: 0
+      selectionRate: 0.63
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-17T10:00:00.000Z'
+      matchId: 22475
+      matchName: RR vs BLR
+      points: 0
+      selectionRate: 0.63
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-14T14:00:00.000Z'
+      matchId: 22472
+      matchName: DC vs RR
+      points: 0
+      selectionRate: 0.58
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-11T10:00:00.000Z'
+      matchId: 22468
+      matchName: SRH vs RR
+      points: 0
+      selectionRate: 3.57
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-09T14:00:00.000Z'
+      matchId: 22465
+      matchName: RR vs DC
+      points: 5
+      selectionRate: 20.3
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-06T14:00:00.000Z'
+      matchId: 22462
+      matchName: MI vs RR
+      points: 16
+      selectionRate: 18.3
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-03T10:00:00.000Z'
+      matchId: 22457
+      matchName: BLR vs RR
+      points: 58
+      selectionRate: 10.27
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-30T14:00:00.000Z'
+      matchId: 22454
+      matchName: RR vs KOL
+      points: 0
+      selectionRate: 0.08
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-27T14:00:00.000Z'
+      matchId: 22451
+      matchName: RR vs KXIP
+      points: 0
+      selectionRate: 0.09
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-22T14:00:00.000Z'
+      matchId: 22446
+      matchName: RR vs CSK
+      points: 0
+      selectionRate: 0.45
+    type:
+      name: ALL

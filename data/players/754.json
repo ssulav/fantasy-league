@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/754-ipl.png
+    creditChange: NONE
+    credits: 8.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Umesh Yadav
+    playerProfileDisplay: Role
+    points: 14
+    profileUrl: https://www.iplt20.com/teams/royal-challengers-bangalore/squad/59/umesh-yadav
+    squad:
+      name: Royal Challengers Bangalore
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-21T14:00:00.000Z'
+      matchId: 22481
+      matchName: KOL vs BLR
+      points: 0
+      selectionRate: 0.38
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-17T10:00:00.000Z'
+      matchId: 22475
+      matchName: RR vs BLR
+      points: 0
+      selectionRate: 0.23
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-15T14:00:00.000Z'
+      matchId: 22473
+      matchName: BLR vs KXIP
+      points: 0
+      selectionRate: 0.26
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-12T14:00:00.000Z'
+      matchId: 22470
+      matchName: BLR vs KOL
+      points: 0
+      selectionRate: 0.32
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-10T14:00:00.000Z'
+      matchId: 22467
+      matchName: CSK vs BLR
+      points: 0
+      selectionRate: 0.48
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-05T14:00:00.000Z'
+      matchId: 22461
+      matchName: BLR vs DC
+      points: 0
+      selectionRate: 0.44
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-10-03T10:00:00.000Z'
+      matchId: 22457
+      matchName: BLR vs RR
+      points: 0
+      selectionRate: 0.77
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-28T14:00:00.000Z'
+      matchId: 22452
+      matchName: BLR vs MI
+      points: 0
+      selectionRate: 1.78
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-24T14:00:00.000Z'
+      matchId: 22448
+      matchName: KXIP vs BLR
+      points: -2
+      selectionRate: 11.88
+    - creditChange: NONE
+      credits: 8.5
+      inDreamTeam: false
+      matchDate: '2020-09-21T14:00:00.000Z'
+      matchId: 22445
+      matchName: SRH vs BLR
+      points: 16
+      selectionRate: 25.33
+    type:
+      name: BOWL

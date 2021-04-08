@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/646-ipl.png
+    creditChange: NONE
+    credits: 10
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Shikhar Dhawan
+    playerProfileDisplay: Role
+    points: 654
+    profileUrl: https://www.iplt20.com/teams/delhi-capitals/squad/41/shikhar-dhawan
+    squad:
+      name: Delhi Capitals
+    tourStatistics:
+    - creditChange: INC
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-10-20T14:00:00.000Z'
+      matchId: 22480
+      matchName: KXIP vs DC
+      points: 144
+      selectionRate: 62.76
+    - creditChange: INC
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-17T14:00:00.000Z'
+      matchId: 22476
+      matchName: DC vs CSK
+      points: 145
+      selectionRate: 67.51
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-14T14:00:00.000Z'
+      matchId: 22472
+      matchName: DC vs RR
+      points: 79
+      selectionRate: 53.91
+    - creditChange: DEC
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-11T14:00:00.000Z'
+      matchId: 22469
+      matchName: MI vs DC
+      points: 89
+      selectionRate: 35.18
+    - creditChange: DEC
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-09T14:00:00.000Z'
+      matchId: 22465
+      matchName: RR vs DC
+      points: 18
+      selectionRate: 49.25
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-10-05T14:00:00.000Z'
+      matchId: 22461
+      matchName: BLR vs DC
+      points: 47
+      selectionRate: 36.46
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-10-03T14:00:00.000Z'
+      matchId: 22458
+      matchName: DC vs KOL
+      points: 44
+      selectionRate: 43.27
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-09-29T14:00:00.000Z'
+      matchId: 22453
+      matchName: DC vs SRH
+      points: 42
+      selectionRate: 38.29
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-09-25T14:00:00.000Z'
+      matchId: 22449
+      matchName: CSK vs DC
+      points: 44
+      selectionRate: 60.29
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-09-20T14:00:00.000Z'
+      matchId: 22444
+      matchName: DC vs KXIP
+      points: 2
+      selectionRate: 70.46
+    type:
+      name: BAT

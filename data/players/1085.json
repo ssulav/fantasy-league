@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1085-ipl.png
+    creditChange: DEC
+    credits: 9
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Faf du Plessis
+    playerProfileDisplay: Role
+    points: 581
+    profileUrl: https://www.iplt20.com/teams/chennai-super-kings/squad/24/faf-du-plessis
+    squad:
+      name: Chennai Super Kings
+    tourStatistics:
+    - creditChange: INC
+      credits: 10.5
+      inDreamTeam: false
+      matchDate: '2020-10-19T14:00:00.000Z'
+      matchId: 22479
+      matchName: CSK vs RR
+      points: 15
+      selectionRate: 87.34
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-10-17T14:00:00.000Z'
+      matchId: 22476
+      matchName: DC vs CSK
+      points: 96
+      selectionRate: 83.97
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-10-13T14:00:00.000Z'
+      matchId: 22471
+      matchName: SRH vs CSK
+      points: 2
+      selectionRate: 81.63
+    - creditChange: INC
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-10-10T14:00:00.000Z'
+      matchId: 22467
+      matchName: CSK vs BLR
+      points: 20
+      selectionRate: 84.4
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-07T14:00:00.000Z'
+      matchId: 22463
+      matchName: KOL vs CSK
+      points: 40
+      selectionRate: 87.95
+    - creditChange: INC
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-04T14:00:00.000Z'
+      matchId: 22460
+      matchName: KXIP vs CSK
+      points: 112
+      selectionRate: 91.81
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-02T14:00:00.000Z'
+      matchId: 22456
+      matchName: CSK vs SRH
+      points: 38
+      selectionRate: 84.45
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-25T14:00:00.000Z'
+      matchId: 22449
+      matchName: CSK vs DC
+      points: 51
+      selectionRate: 85.88
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-22T14:00:00.000Z'
+      matchId: 22446
+      matchName: RR vs CSK
+      points: 107
+      selectionRate: 77.09
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-19T14:00:00.000Z'
+      matchId: 22443
+      matchName: MI vs CSK
+      points: 100
+      selectionRate: 51.09
+    type:
+      name: BAT

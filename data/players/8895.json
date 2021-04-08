@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8895-ipl.png
+    creditChange: NONE
+    credits: 8
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Murugan Ashwin
+    playerProfileDisplay: Role
+    points: 211
+    profileUrl: https://www.iplt20.com/teams/kings-xi-punjab/squad/3187/murugan-ashwin
+    squad:
+      name: Kings XI Punjab
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-20T14:00:00.000Z'
+      matchId: 22480
+      matchName: KXIP vs DC
+      points: 29
+      selectionRate: 33.13
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-18T14:00:00.000Z'
+      matchId: 22478
+      matchName: MI vs KXIP
+      points: 18
+      selectionRate: 40.87
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-15T14:00:00.000Z'
+      matchId: 22473
+      matchName: BLR vs KXIP
+      points: 56
+      selectionRate: 26.99
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-10T10:00:00.000Z'
+      matchId: 22466
+      matchName: KXIP vs KOL
+      points: 0
+      selectionRate: 1.79
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-08T14:00:00.000Z'
+      matchId: 22464
+      matchName: SRH vs KXIP
+      points: 0
+      selectionRate: 5.99
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-04T14:00:00.000Z'
+      matchId: 22460
+      matchName: KXIP vs CSK
+      points: 0
+      selectionRate: 3.29
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-01T14:00:00.000Z'
+      matchId: 22455
+      matchName: KXIP vs MI
+      points: 0
+      selectionRate: 7.09
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-27T14:00:00.000Z'
+      matchId: 22451
+      matchName: RR vs KXIP
+      points: 29
+      selectionRate: 25.68
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-24T14:00:00.000Z'
+      matchId: 22448
+      matchName: KXIP vs BLR
+      points: 79
+      selectionRate: 11.36
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-20T14:00:00.000Z'
+      matchId: 22444
+      matchName: DC vs KXIP
+      points: 0
+      selectionRate: 2.62
+    type:
+      name: BOWL

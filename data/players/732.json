@@ -1,0 +1,67 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/732-ipl.png
+    creditChange: NONE
+    credits: 9
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Bhuvneshwar Kumar
+    playerProfileDisplay: Role
+    points: 89
+    profileUrl: https://www.iplt20.com/teams/sunrisers-hyderabad/squad/116/bhuvneshwar-kumar
+    squad:
+      name: Sunrisers Hyderabad
+    tourStatistics:
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-08T14:00:00.000Z'
+      matchId: 22464
+      matchName: SRH vs KXIP
+      points: 0
+      selectionRate: 2.67
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-04T10:00:00.000Z'
+      matchId: 22459
+      matchName: MI vs SRH
+      points: 0
+      selectionRate: 7.57
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-02T14:00:00.000Z'
+      matchId: 22456
+      matchName: CSK vs SRH
+      points: 29
+      selectionRate: 54.38
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-29T14:00:00.000Z'
+      matchId: 22453
+      matchName: DC vs SRH
+      points: 54
+      selectionRate: 38.54
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-26T14:00:00.000Z'
+      matchId: 22450
+      matchName: KOL vs SRH
+      points: 2
+      selectionRate: 53.26
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-09-21T14:00:00.000Z'
+      matchId: 22445
+      matchName: SRH vs BLR
+      points: 4
+      selectionRate: 62.35
+    type:
+      name: BOWL

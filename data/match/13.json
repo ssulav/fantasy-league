@@ -1,0 +1,1556 @@
+data:
+  me:
+    isGuestUser: true
+    showOnboarding: true
+  site:
+    name: ipl-fantasy
+    playerTypes:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/wk-img.png
+      id: 3
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: Wicket-Keepers
+      shortName: WK
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bt-img.png
+      id: 1
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Batsmen
+      shortName: BAT
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/ar-img.png
+      id: 4
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: All-Rounders
+      shortName: AR
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bw-img.png
+      id: 2
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Bowlers
+      shortName: BOWL
+    roles:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg
+      color: '#F5A623'
+      id: 5
+      name: Captain
+      pointMultiplier: 2
+      shortName: C
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg
+      color: '#4A90E2'
+      id: 6
+      name: Vice Captain
+      pointMultiplier: 1.5
+      shortName: VC
+    showSelPercent: false
+    showTeamCombination:
+      count: 0
+      siteKey: cricket
+    teamCriteria:
+      maxPlayerPerSquad: 7
+      totalCredits: 100
+      totalPlayerCount: 11
+    teamPreviewArtwork:
+    - src: https://assets.dream11.com/public/imgs/team-preview-bg-ipl.svg
+    tour:
+      match:
+        guru: ''
+        id: 22455
+        players:
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/315-ipl.png
+          credits: 9
+          id: 315
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Kieron Pollard
+          points: 396
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.48
+            - id: 6
+              selectionRate: 6.62
+            selectionRate: 63.73
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5983-ipl.png
+          credits: 9.5
+          id: 5983
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Hardik Pandya
+          points: 272
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 2.28
+            - id: 6
+              selectionRate: 3.23
+            selectionRate: 38.54
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9483-ipl.png
+          credits: 8.5
+          id: 9483
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Krunal Pandya
+          points: 265
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.33
+            - id: 6
+              selectionRate: 0.73
+            selectionRate: 17.36
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11660-ipl.png
+          credits: 8
+          id: 11660
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Anukul Sudhakar Roy
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.15
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1066-ipl.png
+          credits: 9
+          id: 1066
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Glenn Maxwell
+          points: 208
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 2.42
+            - id: 6
+              selectionRate: 3.73
+            selectionRate: 41.65
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1441-ipl.png
+          credits: 8.5
+          id: 1441
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Jimmy Neesham
+          points: 85
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.39
+            - id: 6
+              selectionRate: 0.85
+            selectionRate: 19.43
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6821-ipl.png
+          credits: 8.5
+          id: 6821
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Krishnappa Gowtham
+          points: 80
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.22
+            - id: 6
+              selectionRate: 0.47
+            selectionRate: 12.5
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11809-ipl.png
+          credits: 7.5
+          id: 11809
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Tajinder Singh Dhilon
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.32
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/971-ipl.png
+          credits: 7.5
+          id: 971
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Aditya Tare
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.17
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1343-ipl.png
+          credits: 9.5
+          id: 1343
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Quinton de Kock
+          points: 535
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 6.68
+            - id: 6
+              selectionRate: 6.87
+            selectionRate: 48.56
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9161-ipl.png
+          credits: 8.5
+          id: 9161
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Ishan Kishan
+          points: 270
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.46
+            - id: 6
+              selectionRate: 6.61
+            selectionRate: 64.93
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1534-ipl.png
+          credits: 10.5
+          id: 1534
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Lokesh Rahul
+          points: 770
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 31.32
+            - id: 6
+              selectionRate: 13.87
+            selectionRate: 84.29
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1576-ipl.png
+          credits: 9
+          id: 1576
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Nicholas Pooran
+          points: 464
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.55
+            - id: 6
+              selectionRate: 2.24
+            selectionRate: 27.06
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/18522-ipl.png
+          credits: 7.5
+          id: 18522
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Simran Singh
+          points: 45
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.19
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6-ipl.png
+          credits: 10.5
+          id: 6
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Rohit Sharma
+          points: 398
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 19.28
+            - id: 6
+              selectionRate: 14.58
+            selectionRate: 85.03
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/692-ipl.png
+          credits: 8
+          id: 692
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Saurabh Tiwary
+          points: 79
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.02
+            - id: 6
+              selectionRate: 0.06
+            selectionRate: 4.64
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1110-ipl.png
+          credits: 9
+          id: 1110
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Lynn
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.04
+            - id: 6
+              selectionRate: 0.03
+            selectionRate: 0.86
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1143-ipl.png
+          credits: 9
+          id: 1143
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Suryakumar Yadav
+          points: 363
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.21
+            - id: 6
+              selectionRate: 4.65
+            selectionRate: 75.2
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9158-ipl.png
+          credits: 8
+          id: 9158
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Anmolpreet Singh
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.09
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/17224-ipl.png
+          credits: 8
+          id: 17224
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Sherfane Rutherford
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.18
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/309-ipl.png
+          credits: 9.5
+          id: 309
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Gayle
+          points: 149
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.14
+            - id: 6
+              selectionRate: 0.12
+            selectionRate: 1.37
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1137-ipl.png
+          credits: 9.5
+          id: 1137
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Mayank Agarwal
+          points: 587
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 11.73
+            - id: 6
+              selectionRate: 15.07
+            selectionRate: 91.85
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1236-ipl.png
+          credits: 8.5
+          id: 1236
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Karun Nair
+          points: 40
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.38
+            - id: 6
+              selectionRate: 0.7
+            selectionRate: 30.71
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1495-ipl.png
+          credits: 8
+          id: 1495
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sarfaraz Khan
+          points: 74
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.13
+            - id: 6
+              selectionRate: 0.25
+            selectionRate: 21.33
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1885-ipl.png
+          credits: 8
+          id: 1885
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Deepak Hooda
+          points: 68
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.27
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/47345-ipl.png
+          credits: 8
+          id: 47345
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mandeep Singh
+          points: 53
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.33
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/684-ipl.png
+          credits: 8
+          id: 684
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Dhawal Kulkarni
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.13
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/911-ipl.png
+          credits: 8
+          id: 911
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: James Pattinson
+          points: 264
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.3
+            - id: 6
+              selectionRate: 0.61
+            selectionRate: 22.2
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1033-ipl.png
+          credits: 8.5
+          id: 1033
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mitchell McClenaghan
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.15
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1193-ipl.png
+          credits: 8.5
+          id: 1193
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Trent Boult
+          points: 356
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.7
+            - id: 6
+              selectionRate: 3.4
+            selectionRate: 60.48
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1347-ipl.png
+          credits: 8.5
+          id: 1347
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Nathan Coulter-Nile
+          points: 63
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.35
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1532-ipl.png
+          credits: 9
+          id: 1532
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Jasprit Bumrah
+          points: 422
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.83
+            - id: 6
+              selectionRate: 3.05
+            selectionRate: 51.18
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/2109-ipl.png
+          credits: 8
+          id: 2109
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Jayant Yadav
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.04
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11528-ipl.png
+          credits: 8
+          id: 11528
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Rahul Chahar
+          points: 337
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.43
+            - id: 6
+              selectionRate: 1.31
+            selectionRate: 43.43
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15120-ipl.png
+          credits: 8
+          id: 15120
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mohsin Khan
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.03
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/28812-ipl.png
+          credits: 7.5
+          id: 28812
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Digvijay Deshmukh
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.48
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/32939-ipl.png
+          credits: 7.5
+          id: 32939
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Prince Balwant Rai
+          points: 0
+          role: null
+          squad:
+            id: 268
+            jerseyColor: '#81afd3'
+            name: MI
+            shortName: MI
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.26
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1134-ipl.png
+          credits: 9
+          id: 1134
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Mohammed Shami
+          points: 468
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.77
+            - id: 6
+              selectionRate: 6.99
+            selectionRate: 77.69
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1558-ipl.png
+          credits: 8.5
+          id: 1558
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sheldon Cottrell
+          points: 176
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.83
+            - id: 6
+              selectionRate: 1.6
+            selectionRate: 39.62
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1584-ipl.png
+          credits: 8.5
+          id: 1584
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Jordan
+          points: 96
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.02
+            selectionRate: 0.81
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1599-ipl.png
+          credits: 8
+          id: 1599
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Hardus Viljoen
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.07
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5984-ipl.png
+          credits: 8
+          id: 5984
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Jagadeesha Suchith
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.02
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8895-ipl.png
+          credits: 8
+          id: 8895
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Murugan Ashwin
+          points: 211
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.06
+            - id: 6
+              selectionRate: 0.15
+            selectionRate: 7.09
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11097-ipl.png
+          credits: 8
+          id: 11097
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Ishan Porel
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.04
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12611-ipl.png
+          credits: 8
+          id: 12611
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Darshan Nalkande
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.07
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15141-ipl.png
+          credits: 9
+          id: 15141
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Mujeeb-ur-Rahman
+          points: 3
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.04
+            selectionRate: 0.8
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15170-ipl.png
+          credits: 7.5
+          id: 15170
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Arshdeep Singh
+          points: 184
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.67
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/21175-ipl.png
+          credits: 8
+          id: 21175
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Ravi Bishnoi
+          points: 287
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.96
+            - id: 6
+              selectionRate: 2.09
+            selectionRate: 63.59
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/21313-ipl.png
+          credits: 8
+          id: 21313
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Harpreet Brar
+          points: 0
+          role: null
+          squad:
+            id: 272
+            jerseyColor: '#f48f94'
+            name: KXIP
+            shortName: KXIP
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.05
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        squads:
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KXIP-CR3-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KXIP-CR3-ipl@2x-BIG.png
+          id: 272
+          jerseyColor: '#f48f94'
+          name: KXIP
+          shortName: KXIP
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MI-CR3-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MI-CR3-ipl@2x-BIG.png
+          id: 268
+          jerseyColor: '#81afd3'
+          name: MI
+          shortName: MI
+        startTime: '2020-10-01T14:00:00.000Z'
+        status: COMPLETED
+        tour:
+          id: 1552

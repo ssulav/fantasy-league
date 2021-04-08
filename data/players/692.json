@@ -1,0 +1,91 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/692-ipl.png
+    creditChange: NONE
+    credits: 8
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Saurabh Tiwary
+    playerProfileDisplay: Role
+    points: 79
+    profileUrl: null
+    squad:
+      name: Mumbai Indians
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-18T14:00:00.000Z'
+      matchId: 22478
+      matchName: MI vs KXIP
+      points: 0
+      selectionRate: 0.55
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-16T14:00:00.000Z'
+      matchId: 22474
+      matchName: MI vs KOL
+      points: 0
+      selectionRate: 0.23
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-11T14:00:00.000Z'
+      matchId: 22469
+      matchName: MI vs DC
+      points: 0
+      selectionRate: 0.55
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-06T14:00:00.000Z'
+      matchId: 22462
+      matchName: MI vs RR
+      points: 0
+      selectionRate: 1.86
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-04T10:00:00.000Z'
+      matchId: 22459
+      matchName: MI vs SRH
+      points: 0
+      selectionRate: 0.99
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-01T14:00:00.000Z'
+      matchId: 22455
+      matchName: KXIP vs MI
+      points: 0
+      selectionRate: 4.64
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-28T14:00:00.000Z'
+      matchId: 22452
+      matchName: BLR vs MI
+      points: 0
+      selectionRate: 8.34
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-23T14:00:00.000Z'
+      matchId: 22447
+      matchName: KOL vs MI
+      points: 28
+      selectionRate: 46.36
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-09-19T14:00:00.000Z'
+      matchId: 22443
+      matchName: MI vs CSK
+      points: 51
+      selectionRate: 3.56
+    type:
+      name: BAT

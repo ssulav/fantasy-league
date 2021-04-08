@@ -1,0 +1,43 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6807-ipl.png
+    creditChange: NONE
+    credits: 8
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Pravin Dubey
+    playerProfileDisplay: Role
+    points: 0
+    profileUrl: null
+    squad:
+      name: DC
+    tourStatistics:
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-27T14:00:00.000Z'
+      matchId: 22489
+      matchName: SRH vs DC
+      points: 0
+      selectionRate: 0.08
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-24T10:00:00.000Z'
+      matchId: 22484
+      matchName: KOL vs DC
+      points: 0
+      selectionRate: 0.03
+    - creditChange: NONE
+      credits: 8
+      inDreamTeam: false
+      matchDate: '2020-10-20T14:00:00.000Z'
+      matchId: 22480
+      matchName: KXIP vs DC
+      points: 0
+      selectionRate: 0.13
+    type:
+      name: BOWL

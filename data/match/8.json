@@ -1,0 +1,1496 @@
+data:
+  me:
+    isGuestUser: true
+    showOnboarding: true
+  site:
+    name: ipl-fantasy
+    playerTypes:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/wk-img.png
+      id: 3
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: Wicket-Keepers
+      shortName: WK
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bt-img.png
+      id: 1
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Batsmen
+      shortName: BAT
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/ar-img.png
+      id: 4
+      maxPerTeam: 4
+      minPerTeam: 1
+      name: All-Rounders
+      shortName: AR
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerType/bw-img.png
+      id: 2
+      maxPerTeam: 6
+      minPerTeam: 3
+      name: Bowlers
+      shortName: BOWL
+    roles:
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg
+      color: '#F5A623'
+      id: 5
+      name: Captain
+      pointMultiplier: 2
+      shortName: C
+    - artwork:
+      - src: https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg
+      color: '#4A90E2'
+      id: 6
+      name: Vice Captain
+      pointMultiplier: 1.5
+      shortName: VC
+    showSelPercent: false
+    showTeamCombination:
+      count: 0
+      siteKey: cricket
+    teamCriteria:
+      maxPlayerPerSquad: 7
+      totalCredits: 100
+      totalPlayerCount: 11
+    teamPreviewArtwork:
+    - src: https://assets.dream11.com/public/imgs/team-preview-bg-ipl.svg
+    tour:
+      match:
+        guru: ''
+        id: 22450
+        players:
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/896-ipl.png
+          credits: 10
+          id: 896
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Sunil Narine
+          points: 208
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 8.5
+            - id: 6
+              selectionRate: 13.13
+            selectionRate: 62.94
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1091-ipl.png
+          credits: 10.5
+          id: 1091
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Andre Russell
+          points: 300
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 10.74
+            - id: 6
+              selectionRate: 13.43
+            selectionRate: 64.07
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5985-ipl.png
+          credits: 9
+          id: 5985
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Nitish Rana
+          points: 278
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.47
+            - id: 6
+              selectionRate: 2.85
+            selectionRate: 45.02
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/994-ipl.png
+          credits: 9
+          id: 994
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Mohammad Nabi
+          points: 19
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 2.06
+            - id: 6
+              selectionRate: 4.18
+            selectionRate: 40.08
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1385-ipl.png
+          credits: 8.5
+          id: 1385
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Jason Holder
+          points: 91
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.03
+            - id: 6
+              selectionRate: 0.09
+            selectionRate: 1.98
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1513-ipl.png
+          credits: 8.5
+          id: 1513
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Vijay Shankar
+          points: 196
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.08
+            - id: 6
+              selectionRate: 0.26
+            selectionRate: 10.87
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/2015-ipl.png
+          credits: 8
+          id: 2015
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Fabian Allen
+          points: 0
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.55
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/10253-ipl.png
+          credits: 7.5
+          id: 10253
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Sanjay Yadav
+          points: 0
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 1.34
+          type:
+            id: 4
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: ALL
+            shortName: ALL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/20-ipl.png
+          credits: 9
+          id: 20
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Dinesh Karthik
+          points: 256
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.37
+            - id: 6
+              selectionRate: 4.37
+            selectionRate: 51.31
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5990-ipl.png
+          credits: 8
+          id: 5990
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Nikhil Naik
+          points: 13
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.02
+            selectionRate: 0.93
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/669-ipl.png
+          credits: 7.5
+          id: 669
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Shreevats Goswami
+          points: 0
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.47
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/709-ipl.png
+          credits: 8
+          id: 709
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Wriddhiman Saha
+          points: 45
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.44
+            - id: 6
+              selectionRate: 0.63
+            selectionRate: 16.05
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1189-ipl.png
+          credits: 9.5
+          id: 1189
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Jonny Bairstow
+          points: 517
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 26.68
+            - id: 6
+              selectionRate: 14.42
+            selectionRate: 85.08
+          type:
+            id: 3
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: WK
+            shortName: WK
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/612-ipl.png
+          credits: 9
+          id: 612
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Eoin Morgan
+          points: 384
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.74
+            - id: 6
+              selectionRate: 5.57
+            selectionRate: 60.11
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5986-ipl.png
+          credits: 8
+          id: 5986
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Siddhesh Lad
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.18
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8793-ipl.png
+          credits: 8
+          id: 8793
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Rahul Tripathi
+          points: 228
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.02
+            selectionRate: 1.37
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8905-ipl.png
+          credits: 8
+          id: 8905
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Rinku Singh
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.21
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11533-ipl.png
+          credits: 8.5
+          id: 11533
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shubman Gill
+          points: 453
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 3.07
+            - id: 6
+              selectionRate: 5.11
+            selectionRate: 75.19
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11536-ipl.png
+          credits: 8
+          id: 11536
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Tom Banton
+          points: 27
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.79
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/119-ipl.png
+          credits: 10.5
+          id: 119
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: David Warner
+          points: 479
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 26.78
+            - id: 6
+              selectionRate: 13.93
+            selectionRate: 82.86
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/687-ipl.png
+          credits: 9
+          id: 687
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Manish Pandey
+          points: 457
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 4.96
+            - id: 6
+              selectionRate: 6.08
+            selectionRate: 78.39
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8845-ipl.png
+          credits: 8
+          id: 8845
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Bavanaka Sandeep
+          points: 0
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.13
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9042-ipl.png
+          credits: 8
+          id: 9042
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Virat Singh
+          points: 0
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.17
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11527-ipl.png
+          credits: 8
+          id: 11527
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Abhishek Sharma
+          points: 151
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.26
+            - id: 6
+              selectionRate: 0.59
+            selectionRate: 31.77
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11530-ipl.png
+          credits: 8
+          id: 11530
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Priyam Garg
+          points: 215
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.18
+            - id: 6
+              selectionRate: 0.35
+            selectionRate: 19.88
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/21144-ipl.png
+          credits: 7.5
+          id: 21144
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Abdul Samad
+          points: 139
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 1.37
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/988-ipl.png
+          credits: 9.5
+          id: 988
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Kane Williamson
+          points: 251
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.42
+            - id: 6
+              selectionRate: 0.42
+            selectionRate: 3.82
+          type:
+            id: 1
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BAT
+            shortName: BAT
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1172-ipl.png
+          credits: 9
+          id: 1172
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Pat Cummins
+          points: 304
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.64
+            - id: 6
+              selectionRate: 3.11
+            selectionRate: 51.46
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1528-ipl.png
+          credits: 8
+          id: 1528
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Sandeep Warrier
+          points: -2
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.02
+            selectionRate: 1.17
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1889-ipl.png
+          credits: 8.5
+          id: 1889
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Kuldeep Yadav
+          points: 59
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.41
+            - id: 6
+              selectionRate: 0.81
+            selectionRate: 38.17
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/4802-ipl.png
+          credits: 8
+          id: 4802
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Chris Green
+          points: 4
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.19
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/6867-ipl.png
+          credits: 8
+          id: 6867
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Prasidh Krishna
+          points: 108
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.6
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8426-ipl.png
+          credits: 8.5
+          id: 8426
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Lockie Ferguson
+          points: 138
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 1.28
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11534-ipl.png
+          credits: 8
+          id: 11534
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Kamlesh Nagarkoti
+          points: 142
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.26
+            - id: 6
+              selectionRate: 0.51
+            selectionRate: 17.31
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/11661-ipl.png
+          credits: 8
+          id: 11661
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Shivam Mavi
+          points: 224
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 1.27
+            - id: 6
+              selectionRate: 3.01
+            selectionRate: 63.87
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12569-ipl.png
+          credits: 7.5
+          id: 12569
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Manimaran Siddharth
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.01
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 2.03
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/12573-ipl.png
+          credits: 8
+          id: 12573
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Varun Chakravarthy
+          points: 239
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.15
+            - id: 6
+              selectionRate: 0.35
+            selectionRate: 9.81
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/15207-ipl.png
+          credits: 8
+          id: 15207
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Ali Khan
+          points: 0
+          role: null
+          squad:
+            id: 273
+            jerseyColor: '#9e92af'
+            name: Kolkata Knight Riders
+            shortName: KKR
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.23
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/708-ipl.png
+          credits: 8.5
+          id: 708
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Siddarth Kaul
+          points: 48
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.91
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/732-ipl.png
+          credits: 9
+          id: 732
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Bhuvneshwar Kumar
+          points: 89
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.87
+            - id: 6
+              selectionRate: 1.73
+            selectionRate: 53.26
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1142-ipl.png
+          credits: 8
+          id: 1142
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Shahbaz Nadeem
+          points: 22
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.29
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1517-ipl.png
+          credits: 8
+          id: 1517
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Sandeep Sharma
+          points: 137
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.09
+            - id: 6
+              selectionRate: 0.23
+            selectionRate: 20.26
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/1833-ipl.png
+          credits: 8
+          id: 1833
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Billy Stanlake
+          points: 0
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0.01
+            selectionRate: 0.34
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/8608-ipl.png
+          credits: 8
+          id: 8608
+          isSelected: false
+          lineupStatus:
+            color: '#e10000'
+            status: NOT_PLAYING
+            text: ''
+          name: Basil Thampi
+          points: 23
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0
+            - id: 6
+              selectionRate: 0
+            selectionRate: 0.31
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/9164-ipl.png
+          credits: 8
+          id: 9164
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Khaleel Ahmed
+          points: 216
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.1
+            - id: 6
+              selectionRate: 0.26
+            selectionRate: 8.11
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/10185-ipl.png
+          credits: 8
+          id: 10185
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: T Natarajan
+          points: 330
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 0.19
+            - id: 6
+              selectionRate: 0.45
+            selectionRate: 36.3
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        - artwork:
+          - src: https://d13ir53smqqeyp.cloudfront.net/player-images/41564-ipl.png
+          credits: 9.5
+          id: 41564
+          isSelected: false
+          lineupStatus:
+            color: '#00b137'
+            status: PLAYING
+            text: Announced
+          name: Rashid Khan
+          points: 414
+          role: null
+          squad:
+            id: 271
+            jerseyColor: '#fbc070'
+            name: Sunrisers Hyderabad
+            shortName: SRH
+          statistics:
+            role:
+            - id: 5
+              selectionRate: 2.16
+            - id: 6
+              selectionRate: 3.99
+            selectionRate: 57.47
+          type:
+            id: 2
+            maxPerTeam: 0
+            minPerTeam: 0
+            name: BOWL
+            shortName: BOWL
+        squads:
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1-ipl@2x-BIG.png
+          id: 273
+          jerseyColor: '#9e92af'
+          name: Kolkata Knight Riders
+          shortName: KKR
+        - flag:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRH-CR3-ipl@2x.png
+          flagWithName:
+          - src: https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRH-CR3-ipl@2x-BIG.png
+          id: 271
+          jerseyColor: '#fbc070'
+          name: Sunrisers Hyderabad
+          shortName: SRH
+        startTime: '2020-09-26T14:00:00.000Z'
+        status: COMPLETED
+        tour:
+          id: 1552

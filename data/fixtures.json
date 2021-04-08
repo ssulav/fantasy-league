@@ -1,0 +1,3978 @@
+Data:
+  FeedTime:
+    CESTTime: 10/31/20 11:07:51 AM
+    ISTTime: 10/31/20 3:37:51 PM
+    UTCTime: 10/31/20 10:07:51 AM
+  Value:
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/19/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/19/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 1
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 1
+    LivePntsVrsnNo: 8240
+    MatchFile: mick09192020197688
+    MatchId: 197688
+    MatchName: SEP 19 - MI VS CSK
+    MatchNumber: Match 1
+    MatchResult: Chennai Super Kings beat Mumbai Indians by 5 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-19'
+    MatchdateTime: 9/19/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 1
+    MatchdayName: Match 1
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 1
+    TourGamedayId: 1
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 1, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/20/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/20/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 2
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddkp09202020197689
+    MatchId: 197689
+    MatchName: SEP 20 - DC VS KXIP
+    MatchNumber: Match 2
+    MatchResult: Delhi Capitals tied with Kings XI Punjab (Delhi Capitals win Super
+      Over by 2 wickets)
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-20'
+    MatchdateTime: 9/20/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 2
+    MatchdayName: Match 2
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 2
+    TourGamedayId: 2
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 2, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/21/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/21/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 3
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shbc09212020197690
+    MatchId: 197690
+    MatchName: SEP 21 - SRH VS RCB
+    MatchNumber: Match 3
+    MatchResult: Royal Challengers Bangalore beat Sunrisers Hyderabad by 10 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-21'
+    MatchdateTime: 9/21/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 3
+    MatchdayName: Match 3
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 3
+    TourGamedayId: 3
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 3, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/22/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/22/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 4
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrck09222020197691
+    MatchId: 197691
+    MatchName: SEP 22 - RR VS CSK
+    MatchNumber: Match 4
+    MatchResult: Rajasthan Royals beat Chennai Super Kings by 16 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-22'
+    MatchdateTime: 9/22/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 4
+    MatchdayName: Match 4
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 4
+    TourGamedayId: 4
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 4, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/23/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/23/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 5
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krmi09232020197692
+    MatchId: 197692
+    MatchName: SEP 23 - KKR VS MI
+    MatchNumber: Match 5
+    MatchResult: Mumbai Indians beat Kolkata Knight Riders by 49 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-23'
+    MatchdateTime: 9/23/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 5
+    MatchdayName: Match 5
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 5
+    TourGamedayId: 5
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 5, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/24/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/24/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 6
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kpbc09242020197693
+    MatchId: 197693
+    MatchName: SEP 24 - KXIP VS RCB
+    MatchNumber: Match 6
+    MatchResult: Kings XI Punjab beat Royal Challengers Bangalore by 97 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-24'
+    MatchdateTime: 9/24/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 6
+    MatchdayName: Match 6
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 6
+    TourGamedayId: 6
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 6, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/25/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/25/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 7
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ckdd09252020197694
+    MatchId: 197694
+    MatchName: SEP 25 - CSK VS DC
+    MatchNumber: Match 7
+    MatchResult: Delhi Capitals beat Chennai Super Kings by 44 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-25'
+    MatchdateTime: 9/25/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 7
+    MatchdayName: Match 7
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 7
+    TourGamedayId: 7
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 7, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/26/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/26/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 8
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krsh09262020197695
+    MatchId: 197695
+    MatchName: SEP 26 - KKR VS SRH
+    MatchNumber: Match 8
+    MatchResult: Kolkata Knight Riders beat Sunrisers Hyderabad by 7 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-26'
+    MatchdateTime: 9/26/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 8
+    MatchdayName: Match 8
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 8
+    TourGamedayId: 8
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 8, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/27/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/27/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 9
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrkp09272020197696
+    MatchId: 197696
+    MatchName: SEP 27 - RR VS KXIP
+    MatchNumber: Match 9
+    MatchResult: Rajasthan Royals beat Kings XI Punjab by 4 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-27'
+    MatchdateTime: 9/27/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 9
+    MatchdayName: Match 9
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 9
+    TourGamedayId: 9
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 9, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/28/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/28/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 10
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bcmi09282020197697
+    MatchId: 197697
+    MatchName: SEP 28 - RCB VS MI
+    MatchNumber: Match 10
+    MatchResult: Royal Challengers Bangalore tied with Mumbai Indians (Royal Challengers
+      Bangalore win Super Over by 2 wickets)
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-28'
+    MatchdateTime: 9/28/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 10
+    MatchdayName: Match 10
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 10
+    TourGamedayId: 10
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 10, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/29/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/29/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 11
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddsh09292020197698
+    MatchId: 197698
+    MatchName: SEP 29 - DC VS SRH
+    MatchNumber: Match 11
+    MatchResult: Sunrisers Hyderabad beat Delhi Capitals by 15 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-29'
+    MatchdateTime: 9/29/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 11
+    MatchdayName: Match 11
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 11
+    TourGamedayId: 11
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 11, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 9/30/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 9/30/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 12
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrkr09302020197699
+    MatchId: 197699
+    MatchName: SEP 30 - RR VS KKR
+    MatchNumber: Match 12
+    MatchResult: Kolkata Knight Riders beat Rajasthan Royals by 37 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-09-30'
+    MatchdateTime: 9/30/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 12
+    MatchdayName: Match 12
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 12
+    TourGamedayId: 12
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 12, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/1/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/1/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 13
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kpmi10012020197700
+    MatchId: 197700
+    MatchName: OCT 01 - KXIP VS MI
+    MatchNumber: Match 13
+    MatchResult: Mumbai Indians beat Kings XI Punjab by 48 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-01'
+    MatchdateTime: 10/1/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 13
+    MatchdayName: Match 13
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 13
+    TourGamedayId: 13
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 13, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/2/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/2/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 14
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: cksh10022020197701
+    MatchId: 197701
+    MatchName: OCT 02 - CSK VS SRH
+    MatchNumber: Match 14
+    MatchResult: Sunrisers Hyderabad beat Chennai Super Kings by 7 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-02'
+    MatchdateTime: 10/2/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 14
+    MatchdayName: Match 14
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 14
+    TourGamedayId: 14
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 14, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/3/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/3/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 15
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bcrr10032020197702
+    MatchId: 197702
+    MatchName: OCT 03 - RCB VS RR
+    MatchNumber: Match 15
+    MatchResult: Royal Challengers Bangalore beat Rajasthan Royals by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-03'
+    MatchdateTime: 10/3/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 15
+    MatchdayName: Match 15
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 15
+    TourGamedayId: 15
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 15, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/3/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/3/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 15
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddkr10032020197703
+    MatchId: 197703
+    MatchName: OCT 03 - DC VS KKR
+    MatchNumber: Match 16
+    MatchResult: Delhi Capitals beat Kolkata Knight Riders by 18 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-03'
+    MatchdateTime: 10/3/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 15
+    MatchdayName: Match 16
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 15
+    TourGamedayId: 15
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 16, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/4/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/4/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 16
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: mish10042020197704
+    MatchId: 197704
+    MatchName: OCT 04 - MI VS SRH
+    MatchNumber: Match 17
+    MatchResult: Mumbai Indians beat Sunrisers Hyderabad by 34 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-04'
+    MatchdateTime: 10/4/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 16
+    MatchdayName: Match 17
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 16
+    TourGamedayId: 16
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 17, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/4/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/4/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 16
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kpck10042020197705
+    MatchId: 197705
+    MatchName: OCT 04 - KXIP VS CSK
+    MatchNumber: Match 18
+    MatchResult: Chennai Super Kings beat Kings XI Punjab by 10 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-04'
+    MatchdateTime: 10/4/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 16
+    MatchdayName: Match 18
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 16
+    TourGamedayId: 16
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 18, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/5/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/5/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 17
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bcdd10052020197706
+    MatchId: 197706
+    MatchName: OCT 05 - RCB VS DC
+    MatchNumber: Match 19
+    MatchResult: Delhi Capitals beat Royal Challengers Bangalore by 59 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-05'
+    MatchdateTime: 10/5/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 17
+    MatchdayName: Match 19
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 17
+    TourGamedayId: 17
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 19, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/6/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/6/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 18
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: mirr10062020197707
+    MatchId: 197707
+    MatchName: OCT 06 - MI VS RR
+    MatchNumber: Match 20
+    MatchResult: Mumbai Indians beat Rajasthan Royals by 57 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-06'
+    MatchdateTime: 10/6/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 18
+    MatchdayName: Match 20
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 18
+    TourGamedayId: 18
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 20, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/7/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/7/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 19
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krck10072020197708
+    MatchId: 197708
+    MatchName: OCT 07 - KKR VS CSK
+    MatchNumber: Match 21
+    MatchResult: Kolkata Knight Riders beat Chennai Super Kings by 10 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-07'
+    MatchdateTime: 10/7/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 19
+    MatchdayName: Match 21
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 19
+    TourGamedayId: 19
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 21, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/8/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/8/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 20
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shkp10082020197709
+    MatchId: 197709
+    MatchName: OCT 08 - SRH VS KXIP
+    MatchNumber: Match 22
+    MatchResult: Sunrisers Hyderabad beat Kings XI Punjab by 69 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-08'
+    MatchdateTime: 10/8/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 20
+    MatchdayName: Match 22
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 20
+    TourGamedayId: 20
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 22, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/9/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/9/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 21
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrdd10092020197710
+    MatchId: 197710
+    MatchName: OCT 09 - RR VS DC
+    MatchNumber: Match 23
+    MatchResult: Delhi Capitals beat Rajasthan Royals by 46 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-09'
+    MatchdateTime: 10/9/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 21
+    MatchdayName: Match 23
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 21
+    TourGamedayId: 21
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 23, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/10/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/10/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 22
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kpkr10102020197711
+    MatchId: 197711
+    MatchName: OCT 10 - KXIP VS KKR
+    MatchNumber: Match 24
+    MatchResult: Kolkata Knight Riders beat Kings XI Punjab by 2 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-10'
+    MatchdateTime: 10/10/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 22
+    MatchdayName: Match 25
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 22
+    TourGamedayId: 22
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 24, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/10/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/10/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 22
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ckbc10102020197712
+    MatchId: 197712
+    MatchName: OCT 10 - CSK VS RCB
+    MatchNumber: Match 25
+    MatchResult: Royal Challengers Bangalore beat Chennai Super Kings by 37 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-10'
+    MatchdateTime: 10/10/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 22
+    MatchdayName: Match 24
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 22
+    TourGamedayId: 22
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 25, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/11/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/11/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 23
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shrr10112020197713
+    MatchId: 197713
+    MatchName: OCT 11 - SRH VS RR
+    MatchNumber: Match 26
+    MatchResult: Rajasthan Royals beat Sunrisers Hyderabad by 5 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-11'
+    MatchdateTime: 10/11/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 23
+    MatchdayName: Match 27
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 23
+    TourGamedayId: 23
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 26, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/11/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/11/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 23
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: midd10112020197714
+    MatchId: 197714
+    MatchName: OCT 11 - MI VS DC
+    MatchNumber: Match 27
+    MatchResult: Mumbai Indians beat Delhi Capitals by 5 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-11'
+    MatchdateTime: 10/11/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 23
+    MatchdayName: Match 26
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 23
+    TourGamedayId: 23
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 27, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/12/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/12/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 24
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bckr10122020197715
+    MatchId: 197715
+    MatchName: OCT 12 - RCB VS KKR
+    MatchNumber: Match 28
+    MatchResult: Royal Challengers Bangalore beat Kolkata Knight Riders by 82 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-12'
+    MatchdateTime: 10/12/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 24
+    MatchdayName: Match 28
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 24
+    TourGamedayId: 24
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 28, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/13/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/13/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 25
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shck10132020197716
+    MatchId: 197716
+    MatchName: OCT 13 - SRH VS CSK
+    MatchNumber: Match 29
+    MatchResult: Chennai Super Kings beat Sunrisers Hyderabad by 20 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-13'
+    MatchdateTime: 10/13/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 25
+    MatchdayName: Match 29
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 25
+    TourGamedayId: 25
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 29, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/14/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/14/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 26
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 110
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddrr10142020197717
+    MatchId: 197717
+    MatchName: OCT 14 - DC VS RR
+    MatchNumber: Match 30
+    MatchResult: Delhi Capitals beat Rajasthan Royals by 13 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-14'
+    MatchdateTime: 10/14/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 26
+    MatchdayName: Match 30
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 26
+    TourGamedayId: 26
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 30, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/15/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/15/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 27
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bckp10152020197718
+    MatchId: 197718
+    MatchName: OCT 15 - RCB VS KXIP
+    MatchNumber: Match 31
+    MatchResult: Kings XI Punjab beat Royal Challengers Bangalore by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-15'
+    MatchdateTime: 10/15/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 27
+    MatchdayName: Match 31
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 27
+    TourGamedayId: 27
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 31, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/16/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/16/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 28
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: mikr10162020197719
+    MatchId: 197719
+    MatchName: OCT 16 - MI VS KKR
+    MatchNumber: Match 32
+    MatchResult: Mumbai Indians beat Kolkata Knight Riders by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-16'
+    MatchdateTime: 10/16/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 28
+    MatchdayName: Match 32
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 28
+    TourGamedayId: 28
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 32, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/17/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/17/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 29
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrbc10172020197720
+    MatchId: 197720
+    MatchName: OCT 17 - RR VS RCB
+    MatchNumber: Match 33
+    MatchResult: Royal Challengers Bangalore beat Rajasthan Royals by 7 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-17'
+    MatchdateTime: 10/17/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 29
+    MatchdayName: Match 33
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 29
+    TourGamedayId: 29
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 33, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/17/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/17/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 29
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddck10172020197721
+    MatchId: 197721
+    MatchName: OCT 17 - DC VS CSK
+    MatchNumber: Match 34
+    MatchResult: Delhi Capitals beat Chennai Super Kings by 5 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-17'
+    MatchdateTime: 10/17/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 29
+    MatchdayName: Match 34
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 29
+    TourGamedayId: 29
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 34, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/18/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/18/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 30
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shkr10182020197722
+    MatchId: 197722
+    MatchName: OCT 18 - SRH VS KKR
+    MatchNumber: Match 35
+    MatchResult: Kolkata Knight Riders tied with Sunrisers Hyderabad (Kolkata Knight
+      Riders win Super Over by 2 wickets)
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-18'
+    MatchdateTime: 10/18/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 30
+    MatchdayName: Match 36
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 30
+    TourGamedayId: 30
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 35, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/18/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/18/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 30
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: mikp10182020197723
+    MatchId: 197723
+    MatchName: OCT 18 - MI VS KXIP
+    MatchNumber: Match 36
+    MatchResult: Kings XI Punjab tied with Mumbai Indians (Kings XI Punjab win Super
+      Over by 2 wickets)
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-18'
+    MatchdateTime: 10/18/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 30
+    MatchdayName: Match 35
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 30
+    TourGamedayId: 30
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 36, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/19/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/19/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 31
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ckrr10192020197724
+    MatchId: 197724
+    MatchName: OCT 19 - CSK VS RR
+    MatchNumber: Match 37
+    MatchResult: Rajasthan Royals beat Chennai Super Kings by 7 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-19'
+    MatchdateTime: 10/19/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 31
+    MatchdayName: Match 37
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 31
+    TourGamedayId: 31
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 37, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/20/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/20/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 32
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kpdd10202020197725
+    MatchId: 197725
+    MatchName: OCT 20 - KXIP VS DC
+    MatchNumber: Match 38
+    MatchResult: Kings XI Punjab beat Delhi Capitals by 5 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-20'
+    MatchdateTime: 10/20/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 32
+    MatchdayName: Match 38
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 32
+    TourGamedayId: 32
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 38, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/21/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/21/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 33
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krbc10212020197726
+    MatchId: 197726
+    MatchName: OCT 21 - KKR VS RCB
+    MatchNumber: Match 39
+    MatchResult: Royal Challengers Bangalore beat Kolkata Knight Riders by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-21'
+    MatchdateTime: 10/21/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 33
+    MatchdayName: Match 39
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 33
+    TourGamedayId: 33
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 39, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/22/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/22/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 34
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrsh10222020197727
+    MatchId: 197727
+    MatchName: OCT 22 - RR VS SRH
+    MatchNumber: Match 40
+    MatchResult: Sunrisers Hyderabad beat Rajasthan Royals by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-22'
+    MatchdateTime: 10/22/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 34
+    MatchdayName: Match 40
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 34
+    TourGamedayId: 34
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 40, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/23/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/23/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 35
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ckmi10232020197728
+    MatchId: 197728
+    MatchName: OCT 23 - CSK VS MI
+    MatchNumber: Match 41
+    MatchResult: Mumbai Indians beat Chennai Super Kings by 10 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-23'
+    MatchdateTime: 10/23/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 35
+    MatchdayName: Match 41
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 35
+    TourGamedayId: 35
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 41, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/24/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/24/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 36
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krdd10242020197729
+    MatchId: 197729
+    MatchName: OCT 24 - KKR VS DC
+    MatchNumber: Match 42
+    MatchResult: Kolkata Knight Riders beat Delhi Capitals by 59 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-24'
+    MatchdateTime: 10/24/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 36
+    MatchdayName: Match 42
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 36
+    TourGamedayId: 36
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 42, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/24/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/24/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 36
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kpsh10242020197730
+    MatchId: 197730
+    MatchName: OCT 24 - KXIP VS SRH
+    MatchNumber: Match 43
+    MatchResult: Kings XI Punjab beat Sunrisers Hyderabad by 12 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-24'
+    MatchdateTime: 10/24/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 36
+    MatchdayName: Match 43
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 36
+    TourGamedayId: 36
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 43, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: CSK
+    AwayTeamId: 1108
+    AwayTeamName: Chennai Super Kings
+    AwayTeamScore: 0.0
+    AwayTeamShortName: CSK
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/25/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/25/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 37
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bcck10252020197731
+    MatchId: 197731
+    MatchName: OCT 25 - RCB VS CSK
+    MatchNumber: Match 44
+    MatchResult: Chennai Super Kings beat Royal Challengers Bangalore by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-25'
+    MatchdateTime: 10/25/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 37
+    MatchdayName: Match 45
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 37
+    TourGamedayId: 37
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 44, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/25/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/25/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 37
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RR
+    HomeTeamId: 1110
+    HomeTeamName: Rajasthan Royals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: rrmi10252020197732
+    MatchId: 197732
+    MatchName: OCT 25 - RR VS MI
+    MatchNumber: Match 45
+    MatchResult: Rajasthan Royals beat Mumbai Indians by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-25'
+    MatchdateTime: 10/25/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 37
+    MatchdayName: Match 44
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 37
+    TourGamedayId: 37
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 45, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/26/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/26/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 38
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krkp10262020197733
+    MatchId: 197733
+    MatchName: OCT 26 - KKR VS KXIP
+    MatchNumber: Match 46
+    MatchResult: Kings XI Punjab beat Kolkata Knight Riders by 8 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-26'
+    MatchdateTime: 10/26/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 38
+    MatchdayName: Match 46
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 38
+    TourGamedayId: 38
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 46, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: DC
+    AwayTeamId: 1109
+    AwayTeamName: Delhi Capitals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: DC
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/27/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/27/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 39
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shdd10272020197734
+    MatchId: 197734
+    MatchName: OCT 27 - SRH VS DC
+    MatchNumber: Match 47
+    MatchResult: Sunrisers Hyderabad beat Delhi Capitals by 88 runs
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-27'
+    MatchdateTime: 10/27/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 39
+    MatchdayName: Match 47
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 39
+    TourGamedayId: 39
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 47, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/28/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/28/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 40
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: MI
+    HomeTeamId: 1111
+    HomeTeamName: Mumbai Indians
+    HomeTeamScore: 0.0
+    HomeTeamShortName: MI
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: mibc10282020197735
+    MatchId: 197735
+    MatchName: OCT 28 - MI VS RCB
+    MatchNumber: Match 48
+    MatchResult: Mumbai Indians beat Royal Challengers Bangalore by 5 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-28'
+    MatchdateTime: 10/28/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 40
+    MatchdayName: Match 48
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 40
+    TourGamedayId: 40
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 48, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KKR
+    AwayTeamId: 1106
+    AwayTeamName: Kolkata Knight Riders
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KKR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/29/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/29/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 41
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ckkr10292020197736
+    MatchId: 197736
+    MatchName: OCT 29 - CSK VS KKR
+    MatchNumber: Match 49
+    MatchResult: Chennai Super Kings beat Kolkata Knight Riders by 6 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-29'
+    MatchdateTime: 10/29/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 41
+    MatchdayName: Match 49
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 41
+    TourGamedayId: 41
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 49, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/30/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/30/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 42
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KXIP
+    HomeTeamId: 1107
+    HomeTeamName: Kings XI Punjab
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KXIP
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 2
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 2
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: -1
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: kprr10302020197737
+    MatchId: 197737
+    MatchName: OCT 30 - KXIP VS RR
+    MatchNumber: Match 50
+    MatchResult: Rajasthan Royals beat Kings XI Punjab by 7 wickets
+    MatchStatus: 2
+    MatchType: T20
+    Matchdate: '2020-10-30'
+    MatchdateTime: 10/30/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 42
+    MatchdayName: Match 50
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 2
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 42
+    TourGamedayId: 42
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 50, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/31/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/31/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 43
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 1
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 1
+    IsLive: 1
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddmi10312020197738
+    MatchId: 197738
+    MatchName: OCT 31 - DC VS MI
+    MatchNumber: Match 51
+    MatchResult: ''
+    MatchStatus: 1
+    MatchType: T20
+    Matchdate: '2020-10-31'
+    MatchdateTime: 10/31/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 43
+    MatchdayName: Match 52
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 1
+    MhIsLocked: 1
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 43
+    TourGamedayId: 43
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 51, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: SRH
+    AwayTeamId: 1379
+    AwayTeamName: Sunrisers Hyderabad
+    AwayTeamScore: 0.0
+    AwayTeamShortName: SRH
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 10/31/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 10/31/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 43
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: RCB
+    HomeTeamId: 1105
+    HomeTeamName: Royal Challengers Bangalore
+    HomeTeamScore: 0.0
+    HomeTeamShortName: RCB
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 1
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 1
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 1
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: bcsh10312020197739
+    MatchId: 197739
+    MatchName: OCT 31 - RCB VS SRH
+    MatchNumber: Match 52
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-10-31'
+    MatchdateTime: 10/31/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 43
+    MatchdayName: Match 51
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 1
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 43
+    TourGamedayId: 43
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 52, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: KXIP
+    AwayTeamId: 1107
+    AwayTeamName: Kings XI Punjab
+    AwayTeamScore: 0.0
+    AwayTeamShortName: KXIP
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/1/20 3:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/1/20 3:40:00 PM
+    FreezeMini: '10'
+    Gameday: 44
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: CSK
+    HomeTeamId: 1108
+    HomeTeamName: Chennai Super Kings
+    HomeTeamScore: 0.0
+    HomeTeamShortName: CSK
+    IsActNewUsr: 0
+    IsActiveForNewUser: '1'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '1'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ckkp11012020197740
+    MatchId: 197740
+    MatchName: NOV 01 - CSK VS KXIP
+    MatchNumber: Match 53
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-01'
+    MatchdateTime: 11/1/20 3:30:00 PM
+    MatchdateUni: null
+    Matchday: 44
+    MatchdayName: Match 53
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 44
+    TourGamedayId: 44
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 53, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RR
+    AwayTeamId: 1110
+    AwayTeamName: Rajasthan Royals
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RR
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/1/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/1/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 44
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: KKR
+    HomeTeamId: 1106
+    HomeTeamName: Kolkata Knight Riders
+    HomeTeamScore: 0.0
+    HomeTeamShortName: KKR
+    IsActNewUsr: 0
+    IsActiveForNewUser: '1'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '1'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: krrr11012020197741
+    MatchId: 197741
+    MatchName: NOV 01 - KKR VS RR
+    MatchNumber: Match 54
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-01'
+    MatchdateTime: 11/1/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 44
+    MatchdayName: Match 54
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 44
+    TourGamedayId: 44
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Match 54, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: RCB
+    AwayTeamId: 1105
+    AwayTeamName: Royal Challengers Bangalore
+    AwayTeamScore: 0.0
+    AwayTeamShortName: RCB
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/2/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/2/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 45
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: DC
+    HomeTeamId: 1109
+    HomeTeamName: Delhi Capitals
+    HomeTeamScore: 0.0
+    HomeTeamShortName: DC
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: ddbc11022020197742
+    MatchId: 197742
+    MatchName: NOV 02 - DC VS RCB
+    MatchNumber: Match 55
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-02'
+    MatchdateTime: 11/2/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 45
+    MatchdayName: Match 55
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 45
+    TourGamedayId: 45
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Match 55, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: MI
+    AwayTeamId: 1111
+    AwayTeamName: Mumbai Indians
+    AwayTeamScore: 0.0
+    AwayTeamShortName: MI
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/3/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/3/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 46
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: SRH
+    HomeTeamId: 1379
+    HomeTeamName: Sunrisers Hyderabad
+    HomeTeamScore: 0.0
+    HomeTeamShortName: SRH
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 55
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: shmi11032020197743
+    MatchId: 197743
+    MatchName: NOV 03 - SRH VS MI
+    MatchNumber: Match 56
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-03'
+    MatchdateTime: 11/3/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 46
+    MatchdayName: Match 56
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 1
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 46
+    TourGamedayId: 46
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sharjah Cricket Stadium, Sharjah
+    Venue1: Match 56, Sharjah
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: ''
+    AwayTeamId: 0
+    AwayTeamName: ''
+    AwayTeamScore: 0.0
+    AwayTeamShortName: TBD
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/5/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/5/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 47
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: ''
+    HomeTeamId: 0
+    HomeTeamName: ''
+    HomeTeamScore: 0.0
+    HomeTeamShortName: TBD
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 10
+    IsTransferUnlimitted: 1
+    LivePntsVrsnNo: 8240
+    MatchFile: tbctbc11052020198672
+    MatchId: 198672
+    MatchName: ''
+    MatchNumber: Qualifier 1
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-05'
+    MatchdateTime: 11/5/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 47
+    MatchdayName: Match 57
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 2
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 47
+    TourGamedayId: 47
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Qualifier 1, Dubai
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: ''
+    AwayTeamId: 0
+    AwayTeamName: ''
+    AwayTeamScore: 0.0
+    AwayTeamShortName: TBD
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/6/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/6/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 48
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: ''
+    HomeTeamId: 0
+    HomeTeamName: ''
+    HomeTeamScore: 0.0
+    HomeTeamShortName: TBD
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 10
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: tbctbc11062020198673
+    MatchId: 198673
+    MatchName: ''
+    MatchNumber: Eliminator
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-06'
+    MatchdateTime: 11/6/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 48
+    MatchdayName: Match 58
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 2
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 48
+    TourGamedayId: 48
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Eliminator, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: ''
+    AwayTeamId: 0
+    AwayTeamName: ''
+    AwayTeamScore: 0.0
+    AwayTeamShortName: TBD
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/8/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/8/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 49
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: ''
+    HomeTeamId: 0
+    HomeTeamName: ''
+    HomeTeamScore: 0.0
+    HomeTeamShortName: TBD
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 10
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: tbctbc11082020198674
+    MatchId: 198674
+    MatchName: ''
+    MatchNumber: Qualifier 2
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-08'
+    MatchdateTime: 11/8/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 49
+    MatchdayName: Match 59
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 2
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 49
+    TourGamedayId: 49
+    TourId: 1
+    TournamentId: 1667
+    Venue: Sheikh Zayed Stadium, Abu Dhabi
+    Venue1: Qualifier 2, Abu Dhabi
+  - ABTeamGamedayId: '0'
+    AwayTeamCountryCode: ''
+    AwayTeamId: 0
+    AwayTeamName: ''
+    AwayTeamScore: 0.0
+    AwayTeamShortName: TBD
+    CompId: 1
+    CurrentGamedayId: 0
+    CurrentTeamGamedayId: 0
+    Deadlinedate: 11/10/20 7:30:00 PM
+    DeadlinedateUni: null
+    FreezeDeadlinedate: 11/10/20 7:40:00 PM
+    FreezeMini: '10'
+    Gameday: 50
+    GdTotalPlayers: 11
+    HomeTeamCountryCode: ''
+    HomeTeamId: 0
+    HomeTeamName: ''
+    HomeTeamScore: 0.0
+    HomeTeamShortName: TBD
+    IsActNewUsr: 0
+    IsActiveForNewUser: '0'
+    IsCurrent: 0
+    IsFixtureAnnounce: 1
+    IsGDAbandoned: '0'
+    IsGDAbandonedPrcAtive: '0'
+    IsGameDayFreeze: '0'
+    IsGdAbdPrcStatus: 0
+    IsLineupAnnounced: 0
+    IsLive: 0
+    IsLivePointsCalStart: 1
+    IsLocked: 0
+    IsMahaMatch: 0
+    IsPlayerCarryforward: 0
+    IsPointProcessed: 0
+    IsSubstitutionAllow: 10
+    IsTransferUnlimitted: 0
+    LivePntsVrsnNo: 8240
+    MatchFile: tbctbc11102020198675
+    MatchId: 198675
+    MatchName: ''
+    MatchNumber: Final
+    MatchResult: ''
+    MatchStatus: 0
+    MatchType: T20
+    Matchdate: '2020-11-10'
+    MatchdateTime: 11/10/20 7:30:00 PM
+    MatchdateUni: null
+    Matchday: 50
+    MatchdayName: Match 60
+    MaxSubstitution: 0
+    MaxTeamBalance: 100.0
+    MaxTeamPlayers: 7
+    MdTotalPlayers: 11
+    MhIsCurrent: 0
+    MhIsLocked: 0
+    PhaseEndDate: 8/1/19 8:10:46 AM
+    PhaseId: 2
+    PhaseStartDate: 8/1/19 8:10:46 AM
+    SeriesId: 3978
+    TeamGamedayId: 50
+    TourGamedayId: 50
+    TourId: 1
+    TournamentId: 1667
+    Venue: Dubai International Cricket Stadium, Dubai
+    Venue1: Final, Dubai
+Meta:
+  Message: Success
+  RetVal: 1
+  Success: true
+  Timestamp:
+    CESTTime: 10/31/20 11:08:36 AM
+    ISTTime: 10/31/20 3:38:36 PM
+    UTCTime: 10/31/20 10:08:36 AM

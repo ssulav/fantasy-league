@@ -1,0 +1,99 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/896-ipl.png
+    creditChange: INC
+    credits: 10
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Sunil Narine
+    playerProfileDisplay: Role
+    points: 208
+    profileUrl: https://www.iplt20.com/teams/kolkata-knight-riders/squad/203/sunil-narine
+    squad:
+      name: Kolkata Knight Riders
+    tourStatistics:
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-21T14:00:00.000Z'
+      matchId: 22481
+      matchName: KOL vs BLR
+      points: 0
+      selectionRate: 2.56
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-18T10:00:00.000Z'
+      matchId: 22477
+      matchName: SRH vs KOL
+      points: 0
+      selectionRate: 4.51
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-16T14:00:00.000Z'
+      matchId: 22474
+      matchName: MI vs KOL
+      points: 0
+      selectionRate: 4.4
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-12T14:00:00.000Z'
+      matchId: 22470
+      matchName: BLR vs KOL
+      points: 0
+      selectionRate: 11.13
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-10T10:00:00.000Z'
+      matchId: 22466
+      matchName: KXIP vs KOL
+      points: 54
+      selectionRate: 52.81
+    - creditChange: DEC
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-07T14:00:00.000Z'
+      matchId: 22463
+      matchName: KOL vs CSK
+      points: 49
+      selectionRate: 30.53
+    - creditChange: DEC
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-03T14:00:00.000Z'
+      matchId: 22458
+      matchName: DC vs KOL
+      points: 1
+      selectionRate: 47.8
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-09-30T14:00:00.000Z'
+      matchId: 22454
+      matchName: RR vs KOL
+      points: 54
+      selectionRate: 46.78
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-09-26T14:00:00.000Z'
+      matchId: 22450
+      matchName: KOL vs SRH
+      points: 2
+      selectionRate: 62.94
+    - creditChange: NONE
+      credits: 10
+      inDreamTeam: false
+      matchDate: '2020-09-23T14:00:00.000Z'
+      matchId: 22447
+      matchName: KOL vs MI
+      points: 48
+      selectionRate: 57.39
+    type:
+      name: ALL

@@ -1,0 +1,91 @@
+data:
+  player:
+    artwork:
+    - src: https://d13ir53smqqeyp.cloudfront.net/player-images/5983-ipl.png
+    creditChange: INC
+    credits: 9.5
+    lineupStatus:
+      color: '#00b137'
+      status: PLAYING
+      text: Announced
+    name: Hardik Pandya
+    playerProfileDisplay: Role
+    points: 272
+    profileUrl: https://www.iplt20.com/teams/mumbai-indians/squad/2740/hardik-pandya
+    squad:
+      name: Mumbai Indians
+    tourStatistics:
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-18T14:00:00.000Z'
+      matchId: 22478
+      matchName: MI vs KXIP
+      points: 14
+      selectionRate: 41.15
+    - creditChange: NONE
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-16T14:00:00.000Z'
+      matchId: 22474
+      matchName: MI vs KOL
+      points: 30
+      selectionRate: 37.2
+    - creditChange: DEC
+      credits: 9
+      inDreamTeam: false
+      matchDate: '2020-10-11T14:00:00.000Z'
+      matchId: 22469
+      matchName: MI vs DC
+      points: 2
+      selectionRate: 46.29
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-06T14:00:00.000Z'
+      matchId: 22462
+      matchName: MI vs RR
+      points: 46
+      selectionRate: 39.47
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-04T10:00:00.000Z'
+      matchId: 22459
+      matchName: MI vs SRH
+      points: 46
+      selectionRate: 52.26
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-10-01T14:00:00.000Z'
+      matchId: 22455
+      matchName: KXIP vs MI
+      points: 41
+      selectionRate: 38.54
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-09-28T14:00:00.000Z'
+      matchId: 22452
+      matchName: BLR vs MI
+      points: 21
+      selectionRate: 54.2
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-09-23T14:00:00.000Z'
+      matchId: 22447
+      matchName: KOL vs MI
+      points: 50
+      selectionRate: 60.04
+    - creditChange: NONE
+      credits: 9.5
+      inDreamTeam: false
+      matchDate: '2020-09-19T14:00:00.000Z'
+      matchId: 22443
+      matchName: MI vs CSK
+      points: 22
+      selectionRate: 76.8
+    type:
+      name: ALL
